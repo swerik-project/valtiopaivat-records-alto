@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_xrkgttpt_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1095" HEIGHT="1778" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1095" HEIGHT="1778">
+				<ComposedBlock ID="cblock_0" HPOS="99" VPOS="703" WIDTH="766" HEIGHT="71">
+					<TextBlock ID="block_0" HPOS="99" VPOS="703" WIDTH="766" HEIGHT="71">
+						<TextLine ID="line_0" HPOS="99" VPOS="703" WIDTH="766" HEIGHT="71">
+							<String ID="string_0" HPOS="99" VPOS="703" WIDTH="177" HEIGHT="55" WC="0.91" CONTENT="Jäsen-"/><SP WIDTH="36" VPOS="703" HPOS="276"/>
+							<String ID="string_1" HPOS="312" VPOS="704" WIDTH="53" HEIGHT="70" WC="0.93" CONTENT="ja"/><SP WIDTH="43" VPOS="704" HPOS="365"/>
+							<String ID="string_2" HPOS="408" VPOS="703" WIDTH="457" HEIGHT="70" WC="0.89" CONTENT="Nisällysluettelot."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
