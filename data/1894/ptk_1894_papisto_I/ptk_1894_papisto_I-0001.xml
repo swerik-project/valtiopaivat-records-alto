@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_pn9yxous_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1117" HEIGHT="1773" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1117" HEIGHT="1773">
+				<ComposedBlock ID="cblock_0" HPOS="103" VPOS="282" WIDTH="805" HEIGHT="224">
+					<TextBlock ID="block_0" HPOS="103" VPOS="282" WIDTH="805" HEIGHT="224">
+						<TextLine ID="line_0" HPOS="365" VPOS="282" WIDTH="279" HEIGHT="50">
+							<String ID="string_0" HPOS="365" VPOS="282" WIDTH="279" HEIGHT="50" WC="0.91" CONTENT="SUOMEN"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="103" VPOS="423" WIDTH="805" HEIGHT="83">
+							<String ID="string_1" HPOS="103" VPOS="423" WIDTH="805" HEIGHT="83" WC="0.88" CONTENT="PAPPISSÄÄDYN"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="275" VPOS="633" WIDTH="464" HEIGHT="61">
+					<TextBlock ID="block_1" HPOS="275" VPOS="633" WIDTH="464" HEIGHT="61">
+						<TextLine ID="line_2" HPOS="275" VPOS="633" WIDTH="464" HEIGHT="61">
+							<String ID="string_2" HPOS="275" VPOS="633" WIDTH="464" HEIGHT="61" WC="0.90" CONTENT="PÖYTÄKIRJAT"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="333" VPOS="797" WIDTH="347" HEIGHT="242">
+					<TextBlock ID="block_2" HPOS="333" VPOS="797" WIDTH="347" HEIGHT="242">
+						<TextLine ID="line_3" HPOS="360" VPOS="797" WIDTH="293" HEIGHT="34">
+							<String ID="string_3" HPOS="360" VPOS="797" WIDTH="191" HEIGHT="33" WC="0.60" CONTENT="VALTIOPÄIVILTÄ"/><SP WIDTH="15" VPOS="797" HPOS="551"/>
+							<String ID="string_4" HPOS="566" VPOS="810" WIDTH="20" HEIGHT="20" WC="0.95" CONTENT="v."/><SP WIDTH="15" VPOS="810" HPOS="586"/>
+							<String ID="string_5" HPOS="601" VPOS="804" WIDTH="52" HEIGHT="27" WC="0.95" CONTENT="1894."/>
+						</TextLine>
+						<TextLine ID="line_4" HPOS="333" VPOS="1007" WIDTH="347" HEIGHT="32">
+							<String ID="string_6" HPOS="333" VPOS="1007" WIDTH="222" HEIGHT="32" WC="0.96" CONTENT="ENSIMMÄINEN"/><SP WIDTH="19" VPOS="1007" HPOS="555"/>
+							<String ID="string_7" HPOS="574" VPOS="1011" WIDTH="106" HEIGHT="27" WC="0.96" CONTENT="VIHKO."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="243" VPOS="1114" WIDTH="526" HEIGHT="24">
+					<TextBlock ID="block_3" HPOS="243" VPOS="1114" WIDTH="526" HEIGHT="24">
+						<TextLine ID="line_5" HPOS="243" VPOS="1114" WIDTH="526" HEIGHT="24">
+							<String ID="string_8" HPOS="243" VPOS="1118" WIDTH="146" HEIGHT="20" WC="0.92" CONTENT="TAMMIKUUN"/><SP WIDTH="14" VPOS="1118" HPOS="389"/>
+							<String ID="string_9" HPOS="403" VPOS="1119" WIDTH="26" HEIGHT="19" WC="0.96" CONTENT="24"/><SP WIDTH="13" VPOS="1119" HPOS="429"/>
+							<String ID="string_10" HPOS="442" VPOS="1114" WIDTH="120" HEIGHT="24" WC="0.96" CONTENT="PÄIVÄSTÄ"/><SP WIDTH="12" VPOS="1114" HPOS="562"/>
+							<String ID="string_11" HPOS="574" VPOS="1118" WIDTH="195" HEIGHT="20" WC="0.96" CONTENT="TOUKOKUUHUN."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="402" VPOS="1269" WIDTH="213" HEIGHT="117">
+					<TextBlock ID="block_4" HPOS="402" VPOS="1269" WIDTH="213" HEIGHT="117">
+						<TextLine ID="line_6" HPOS="402" VPOS="1269" WIDTH="213" HEIGHT="17">
+							<String ID="string_12" HPOS="402" VPOS="1276" WIDTH="32" HEIGHT="2" WC="0.41" CONTENT="—"/>
+						</TextLine>
+						<TextLine ID="line_7" HPOS="567" VPOS="1372" WIDTH="14" HEIGHT="14">
+							<String ID="string_13" HPOS="567" VPOS="1372" WIDTH="14" HEIGHT="14" WC="0.70" CONTENT="LJ"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_5" HPOS="291" VPOS="1462" WIDTH="437" HEIGHT="92">
+					<TextBlock ID="block_5" HPOS="291" VPOS="1462" WIDTH="437" HEIGHT="92">
+						<TextLine ID="line_8" HPOS="411" VPOS="1462" WIDTH="196" HEIGHT="25">
+							<String ID="string_14" HPOS="411" VPOS="1462" WIDTH="196" HEIGHT="25" WC="0.95" CONTENT="HELSINGISSÄ,"/>
+						</TextLine>
+						<TextLine ID="line_9" HPOS="291" VPOS="1502" WIDTH="437" HEIGHT="17">
+							<String ID="string_15" HPOS="291" VPOS="1507" WIDTH="64" HEIGHT="11" WC="0.89" CONTENT="WEILIN"/><SP WIDTH="9" VPOS="1507" HPOS="355"/>
+							<String ID="string_16" HPOS="364" VPOS="1506" WIDTH="10" HEIGHT="12" WC="0.93" CONTENT="&amp;"/><SP WIDTH="8" VPOS="1506" HPOS="374"/>
+							<String ID="string_17" HPOS="382" VPOS="1502" WIDTH="67" HEIGHT="17" WC="0.92" CONTENT="GÖÖS&#39;IN"/><SP WIDTH="10" VPOS="1502" HPOS="449"/>
+							<String ID="string_18" HPOS="459" VPOS="1504" WIDTH="121" HEIGHT="15" WC="0.93" CONTENT="OSAKEYHTIÖN"/><SP WIDTH="8" VPOS="1504" HPOS="580"/>
+							<String ID="string_19" HPOS="588" VPOS="1506" WIDTH="140" HEIGHT="13" WC="0.93" CONTENT="KIRJAPAINOSSA."/>
+						</TextLine>
+						<TextLine ID="line_10" HPOS="485" VPOS="1538" WIDTH="51" HEIGHT="16">
+							<String ID="string_20" HPOS="485" VPOS="1538" WIDTH="51" HEIGHT="16" WC="0.93" CONTENT="1894."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
