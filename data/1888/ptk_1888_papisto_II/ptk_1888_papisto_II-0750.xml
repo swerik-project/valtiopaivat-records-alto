@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_jtzzcyi6_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1092" HEIGHT="1805" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1092" HEIGHT="1805">
+				<ComposedBlock ID="cblock_0" HPOS="229" VPOS="126" WIDTH="466" HEIGHT="22">
+					<TextBlock ID="block_0" HPOS="229" VPOS="126" WIDTH="466" HEIGHT="22">
+						<TextLine ID="line_0" HPOS="229" VPOS="126" WIDTH="466" HEIGHT="22">
+							<String ID="string_0" HPOS="229" VPOS="129" WIDTH="45" HEIGHT="16" WC="0.96" CONTENT="1678"/><SP WIDTH="278" VPOS="129" HPOS="274"/>
+							<String ID="string_1" HPOS="552" VPOS="126" WIDTH="143" HEIGHT="22" WC="0.90" CONTENT="Sisällysluettelo."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="606" VPOS="189" WIDTH="29" HEIGHT="22">
+					<TextBlock ID="block_1" HPOS="606" VPOS="189" WIDTH="29" HEIGHT="22">
+						<TextLine ID="line_1" HPOS="606" VPOS="189" WIDTH="29" HEIGHT="22">
+							<String ID="string_2" HPOS="606" VPOS="189" WIDTH="29" HEIGHT="22" WC="0.92" CONTENT="Ä."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="204" VPOS="254" WIDTH="715" HEIGHT="41">
+					<TextBlock ID="block_2" HPOS="204" VPOS="254" WIDTH="715" HEIGHT="41">
+						<TextLine ID="line_2" HPOS="204" VPOS="254" WIDTH="715" HEIGHT="23">
+							<String ID="string_3" HPOS="204" VPOS="254" WIDTH="159" HEIGHT="22" WC="0.59" CONTENT="Äänilaskusta,"/><SP WIDTH="18" VPOS="254" HPOS="363"/>
+							<String ID="string_4" HPOS="381" VPOS="255" WIDTH="129" HEIGHT="22" WC="0.93" CONTENT="pormestarin,"/><SP WIDTH="21" VPOS="255" HPOS="510"/>
+							<String ID="string_5" HPOS="531" VPOS="255" WIDTH="121" HEIGHT="18" WC="0.85" CONTENT="raatimiehen"/><SP WIDTH="18" VPOS="255" HPOS="652"/>
+							<String ID="string_6" HPOS="670" VPOS="255" WIDTH="19" HEIGHT="22" WC="0.91" CONTENT="ja"/><SP WIDTH="24" VPOS="255" HPOS="689"/>
+							<String ID="string_7" HPOS="713" VPOS="255" WIDTH="206" HEIGHT="18" WC="0.91" CONTENT="maistraatinsihteerin"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="273" VPOS="278" WIDTH="639" HEIGHT="17">
+							<String ID="string_8" HPOS="273" VPOS="278" WIDTH="28" HEIGHT="17" WC="0.96" CONTENT="ks."/><SP WIDTH="13" VPOS="278" HPOS="301"/>
+							<String ID="string_9" HPOS="314" VPOS="283" WIDTH="44" HEIGHT="12" WC="0.96" CONTENT="arm."/><SP WIDTH="15" VPOS="283" HPOS="358"/>
+							<String ID="string_10" HPOS="373" VPOS="283" WIDTH="24" HEIGHT="12" WC="0.96" CONTENT="es."/><SP WIDTH="15" VPOS="283" HPOS="397"/>
+							<String ID="string_11" HPOS="412" VPOS="283" WIDTH="29" HEIGHT="12" WC="0.96" CONTENT="n:o"/><SP WIDTH="14" VPOS="283" HPOS="441"/>
+							<String ID="string_12" HPOS="455" VPOS="278" WIDTH="14" HEIGHT="17" WC="0.96" CONTENT="4."/><SP WIDTH="294" VPOS="278" HPOS="469"/>
+							<String ID="string_13" HPOS="763" VPOS="287" WIDTH="2" HEIGHT="2" WC="0.0" CONTENT=":"/><SP WIDTH="144" VPOS="287" HPOS="765"/>
+							<String ID="string_14" HPOS="909" VPOS="292" WIDTH="3" HEIGHT="3" WC="0.79" CONTENT="ä"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="944" VPOS="255" WIDTH="84" HEIGHT="22">
+					<TextBlock ID="block_3" HPOS="944" VPOS="255" WIDTH="84" HEIGHT="22">
+						<TextLine ID="line_4" HPOS="944" VPOS="255" WIDTH="84" HEIGHT="22">
+							<String ID="string_15" HPOS="944" VPOS="255" WIDTH="84" HEIGHT="22" WC="0.96" CONTENT="vaalissa,"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_4" HPOS="36" VPOS="1781" WIDTH="1023" HEIGHT="1"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
