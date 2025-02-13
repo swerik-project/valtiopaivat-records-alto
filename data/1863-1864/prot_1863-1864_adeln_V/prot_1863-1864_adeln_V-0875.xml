@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_0dtl8i4w_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1003" HEIGHT="1714" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1003" HEIGHT="1714">
+				<Illustration ID="cblock_0" HPOS="26" VPOS="26" WIDTH="375" HEIGHT="265"></Illustration>
+				<ComposedBlock ID="cblock_1" HPOS="146" VPOS="185" WIDTH="761" HEIGHT="180">
+					<TextBlock ID="block_0" HPOS="361" VPOS="185" WIDTH="546" HEIGHT="63">
+						<TextLine ID="line_0" HPOS="361" VPOS="185" WIDTH="546" HEIGHT="63">
+							<String ID="string_0" HPOS="361" VPOS="215" WIDTH="34" HEIGHT="25" WC="0.30" CONTENT="bit:"/><SP WIDTH="9" VPOS="215" HPOS="395"/>
+							<String ID="string_1" HPOS="404" VPOS="193" WIDTH="90" HEIGHT="44" WC="0.34" CONTENT="Fönom"/><SP WIDTH="21" VPOS="193" HPOS="494"/>
+							<String ID="string_2" HPOS="515" VPOS="193" WIDTH="93" HEIGHT="55" WC="0.57" CONTENT="aflomna"/><SP WIDTH="14" VPOS="193" HPOS="608"/>
+							<String ID="string_3" HPOS="622" VPOS="185" WIDTH="285" HEIGHT="63" WC="0.1" CONTENT="landimdinkalksstatron;"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_1" HPOS="146" VPOS="236" WIDTH="702" HEIGHT="94">
+						<TextLine ID="line_1" HPOS="146" VPOS="236" WIDTH="702" HEIGHT="57">
+							<String ID="string_4" HPOS="146" VPOS="236" WIDTH="44" HEIGHT="37" WC="0.93" CONTENT="och"/><SP WIDTH="11" VPOS="236" HPOS="190"/>
+							<String ID="string_5" HPOS="201" VPOS="247" WIDTH="101" HEIGHT="46" WC="0.68" CONTENT="ståndets"/><SP WIDTH="16" VPOS="247" HPOS="302"/>
+							<String ID="string_6" HPOS="318" VPOS="249" WIDTH="71" HEIGHT="28" WC="0.93" CONTENT="öfrige"/><SP WIDTH="6" VPOS="249" HPOS="389"/>
+							<String ID="string_7" HPOS="395" VPOS="242" WIDTH="131" HEIGHT="32" WC="0.56" CONTENT="ledamöter"/><SP WIDTH="15" VPOS="242" HPOS="526"/>
+							<String ID="string_8" HPOS="541" VPOS="245" WIDTH="122" HEIGHT="32" WC="0.46" CONTENT="ätskiljäes."/><SP WIDTH="140" VPOS="245" HPOS="663"/>
+							<String ID="string_9" HPOS="803" VPOS="262" WIDTH="45" HEIGHT="20" WC="0.31" CONTENT="ör"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="600" VPOS="304" WIDTH="199" HEIGHT="26">
+							<String ID="string_10" HPOS="600" VPOS="307" WIDTH="21" HEIGHT="17" WC="0.78" CONTENT="In"/><SP WIDTH="13" VPOS="307" HPOS="621"/>
+							<String ID="string_11" HPOS="634" VPOS="294" WIDTH="52" HEIGHT="31" WC="0.94" CONTENT="fidem"/><SP WIDTH="12" VPOS="294" HPOS="686"/>
+							<String ID="string_12" HPOS="698" VPOS="304" WIDTH="101" HEIGHT="26" WC="0.89" CONTENT="protokolli:"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_2" HPOS="555" VPOS="340" WIDTH="279" HEIGHT="25">
+						<TextLine ID="line_3" HPOS="555" VPOS="340" WIDTH="279" HEIGHT="25">
+							<String ID="string_13" HPOS="555" VPOS="341" WIDTH="78" HEIGHT="19" WC="0.96" CONTENT="Victor"/><SP WIDTH="12" VPOS="341" HPOS="633"/>
+							<String ID="string_14" HPOS="645" VPOS="340" WIDTH="26" HEIGHT="20" WC="0.96" CONTENT="de"/><SP WIDTH="13" VPOS="340" HPOS="671"/>
+							<String ID="string_15" HPOS="684" VPOS="341" WIDTH="23" HEIGHT="19" WC="0.96" CONTENT="la"/><SP WIDTH="12" VPOS="341" HPOS="707"/>
+							<String ID="string_16" HPOS="719" VPOS="341" WIDTH="115" HEIGHT="24" WC="0.95" CONTENT="Chapelle."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_2" HPOS="682" VPOS="409" WIDTH="29" HEIGHT="11"></Illustration>
+				<Illustration ID="cblock_3" HPOS="490" VPOS="1501" WIDTH="501" HEIGHT="188"></Illustration>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
