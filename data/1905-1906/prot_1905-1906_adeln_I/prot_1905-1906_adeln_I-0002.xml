@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_aod5syq0_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1089" HEIGHT="1736" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1089" HEIGHT="1736">
+				<ComposedBlock ID="cblock_0" HPOS="331" VPOS="321" WIDTH="316" HEIGHT="44">
+					<TextBlock ID="block_0" HPOS="331" VPOS="321" WIDTH="316" HEIGHT="44">
+						<TextLine ID="line_0" HPOS="331" VPOS="321" WIDTH="316" HEIGHT="44">
+							<String ID="string_0" HPOS="331" VPOS="321" WIDTH="316" HEIGHT="44" WC="0.66" CONTENT="PROTOKOLL"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="71" VPOS="528" WIDTH="831" HEIGHT="86">
+					<TextBlock ID="block_1" HPOS="71" VPOS="528" WIDTH="831" HEIGHT="86">
+						<TextLine ID="line_1" HPOS="71" VPOS="528" WIDTH="831" HEIGHT="86">
+							<String ID="string_1" HPOS="71" VPOS="528" WIDTH="223" HEIGHT="85" WC="0.73" CONTENT="FINLANDS"/><SP WIDTH="44" VPOS="528" HPOS="294"/>
+							<String ID="string_2" HPOS="338" VPOS="529" WIDTH="280" HEIGHT="85" WC="0.75" CONTENT="RIDDERSKAP"/><SP WIDTH="43" VPOS="529" HPOS="618"/>
+							<String ID="string_3" HPOS="661" VPOS="528" WIDTH="87" HEIGHT="86" WC="0.68" CONTENT="OCH"/><SP WIDTH="43" VPOS="528" HPOS="748"/>
+							<String ID="string_4" HPOS="791" VPOS="528" WIDTH="111" HEIGHT="85" WC="0.80" CONTENT="ADEL"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="363" VPOS="739" WIDTH="252" HEIGHT="23">
+					<TextBlock ID="block_2" HPOS="363" VPOS="739" WIDTH="252" HEIGHT="23">
+						<TextLine ID="line_2" HPOS="363" VPOS="739" WIDTH="252" HEIGHT="23">
+							<String ID="string_5" HPOS="363" VPOS="739" WIDTH="252" HEIGHT="23" WC="0.90" CONTENT="LANDTDAGEN"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="275" VPOS="824" WIDTH="429" HEIGHT="55">
+					<TextBlock ID="block_3" HPOS="275" VPOS="824" WIDTH="429" HEIGHT="55">
+						<TextLine ID="line_3" HPOS="275" VPOS="824" WIDTH="429" HEIGHT="55">
+							<String ID="string_6" HPOS="275" VPOS="824" WIDTH="105" HEIGHT="53" WC="0.93" CONTENT="ÅR"/><SP WIDTH="29" VPOS="824" HPOS="380"/>
+							<String ID="string_7" HPOS="409" VPOS="835" WIDTH="295" HEIGHT="44" WC="0.86" CONTENT="1905—06."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_4" HPOS="421" VPOS="938" WIDTH="138" HEIGHT="2"></GraphicalElement >
+				<ComposedBlock ID="cblock_5" HPOS="352" VPOS="999" WIDTH="280" HEIGHT="24">
+					<TextBlock ID="block_4" HPOS="352" VPOS="999" WIDTH="280" HEIGHT="24">
+						<TextLine ID="line_4" HPOS="352" VPOS="999" WIDTH="280" HEIGHT="24">
+							<String ID="string_8" HPOS="352" VPOS="999" WIDTH="125" HEIGHT="24" WC="0.96" CONTENT="FÖRSTA"/><SP WIDTH="16" VPOS="999" HPOS="477"/>
+							<String ID="string_9" HPOS="493" VPOS="999" WIDTH="139" HEIGHT="23" WC="0.96" CONTENT="HÄFTET."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_6" HPOS="225" VPOS="1500" WIDTH="543" HEIGHT="29">
+					<TextBlock ID="block_5" HPOS="225" VPOS="1500" WIDTH="543" HEIGHT="29">
+						<TextLine ID="line_5" HPOS="225" VPOS="1500" WIDTH="543" HEIGHT="29">
+							<String ID="string_10" HPOS="225" VPOS="1505" WIDTH="214" HEIGHT="15" WC="0.93" CONTENT="HELSINGFORS"/><SP WIDTH="23" VPOS="1505" HPOS="439"/>
+							<String ID="string_11" HPOS="462" VPOS="1500" WIDTH="306" HEIGHT="29" WC="0.89" CONTENT="CENTRALTRYCKERI."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
