@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_mhsdvvao_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1100" HEIGHT="1761" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1100" HEIGHT="1761">
+				<ComposedBlock ID="cblock_0" HPOS="17" VPOS="264" WIDTH="879" HEIGHT="277">
+					<TextBlock ID="block_0" HPOS="17" VPOS="264" WIDTH="879" HEIGHT="277">
+						<TextLine ID="line_0" HPOS="17" VPOS="264" WIDTH="879" HEIGHT="102">
+							<String ID="string_0" HPOS="17" VPOS="264" WIDTH="2" HEIGHT="2" WC="0.68" CONTENT="*"/><SP WIDTH="57" VPOS="264" HPOS="19"/>
+							<String ID="string_1" HPOS="76" VPOS="284" WIDTH="820" HEIGHT="82" WC="0.76" CONTENT="BORGARESTÅNDETS"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="180" VPOS="453" WIDTH="617" HEIGHT="88">
+							<String ID="string_2" HPOS="180" VPOS="453" WIDTH="617" HEIGHT="88" WC="0.96" CONTENT="PROTOKOLL"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="229" VPOS="656" WIDTH="525" HEIGHT="28">
+					<TextBlock ID="block_1" HPOS="229" VPOS="656" WIDTH="525" HEIGHT="28">
+						<TextLine ID="line_2" HPOS="229" VPOS="656" WIDTH="525" HEIGHT="28">
+							<String ID="string_3" HPOS="229" VPOS="656" WIDTH="243" HEIGHT="27" WC="0.91" CONTENT="LANDTDAGEN"/><SP WIDTH="19" VPOS="656" HPOS="472"/>
+							<String ID="string_4" HPOS="491" VPOS="657" WIDTH="7" HEIGHT="25" WC="0.91" CONTENT="I"/><SP WIDTH="19" VPOS="657" HPOS="498"/>
+							<String ID="string_5" HPOS="517" VPOS="656" WIDTH="237" HEIGHT="28" WC="0.81" CONTENT="HELSINGFORS"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="328" VPOS="772" WIDTH="323" HEIGHT="45">
+					<TextBlock ID="block_2" HPOS="328" VPOS="772" WIDTH="323" HEIGHT="45">
+						<TextLine ID="line_3" HPOS="328" VPOS="772" WIDTH="323" HEIGHT="45">
+							<String ID="string_6" HPOS="328" VPOS="772" WIDTH="106" HEIGHT="45" WC="0.93" CONTENT="ÅREN"/><SP WIDTH="23" VPOS="772" HPOS="434"/>
+							<String ID="string_7" HPOS="457" VPOS="785" WIDTH="194" HEIGHT="30" WC="0.92" CONTENT="1905—1906"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="354" VPOS="991" WIDTH="266" HEIGHT="31">
+					<TextBlock ID="block_3" HPOS="354" VPOS="991" WIDTH="266" HEIGHT="31">
+						<TextLine ID="line_4" HPOS="354" VPOS="991" WIDTH="266" HEIGHT="31">
+							<String ID="string_8" HPOS="354" VPOS="991" WIDTH="133" HEIGHT="31" WC="0.96" CONTENT="FÖRSTA"/><SP WIDTH="19" VPOS="991" HPOS="487"/>
+							<String ID="string_9" HPOS="506" VPOS="997" WIDTH="114" HEIGHT="23" WC="0.96" CONTENT="DELEN"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="99" VPOS="1092" WIDTH="781" HEIGHT="24">
+					<TextBlock ID="block_4" HPOS="99" VPOS="1092" WIDTH="781" HEIGHT="24">
+						<TextLine ID="line_5" HPOS="99" VPOS="1092" WIDTH="781" HEIGHT="24">
+							<String ID="string_10" HPOS="99" VPOS="1092" WIDTH="62" HEIGHT="24" WC="0.93" CONTENT="FRÅN"/><SP WIDTH="13" VPOS="1092" HPOS="161"/>
+							<String ID="string_11" HPOS="174" VPOS="1096" WIDTH="178" HEIGHT="19" WC="0.91" CONTENT="LANDTDAGENS"/><SP WIDTH="12" VPOS="1096" HPOS="352"/>
+							<String ID="string_12" HPOS="364" VPOS="1093" WIDTH="94" HEIGHT="23" WC="0.95" CONTENT="BÖRJAN"/><SP WIDTH="13" VPOS="1093" HPOS="458"/>
+							<String ID="string_13" HPOS="471" VPOS="1096" WIDTH="49" HEIGHT="18" WC="0.95" CONTENT="TILL"/><SP WIDTH="14" VPOS="1096" HPOS="520"/>
+							<String ID="string_14" HPOS="534" VPOS="1096" WIDTH="51" HEIGHT="18" WC="0.96" CONTENT="OCH"/><SP WIDTH="13" VPOS="1096" HPOS="585"/>
+							<String ID="string_15" HPOS="598" VPOS="1096" WIDTH="52" HEIGHT="18" WC="0.95" CONTENT="MED"/><SP WIDTH="13" VPOS="1096" HPOS="650"/>
+							<String ID="string_16" HPOS="663" VPOS="1096" WIDTH="49" HEIGHT="18" WC="0.95" CONTENT="DEN"/><SP WIDTH="16" VPOS="1096" HPOS="712"/>
+							<String ID="string_17" HPOS="728" VPOS="1095" WIDTH="23" HEIGHT="18" WC="0.96" CONTENT="18"/><SP WIDTH="13" VPOS="1095" HPOS="751"/>
+							<String ID="string_18" HPOS="764" VPOS="1094" WIDTH="46" HEIGHT="19" WC="0.96" CONTENT="MAJ"/><SP WIDTH="16" VPOS="1094" HPOS="810"/>
+							<String ID="string_19" HPOS="826" VPOS="1094" WIDTH="54" HEIGHT="18" WC="0.96" CONTENT="1906."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_5" HPOS="351" VPOS="1425" WIDTH="325" HEIGHT="52">
+					<TextBlock ID="block_5" HPOS="351" VPOS="1425" WIDTH="325" HEIGHT="52">
+						<TextLine ID="line_6" HPOS="356" VPOS="1425" WIDTH="272" HEIGHT="21">
+							<String ID="string_20" HPOS="356" VPOS="1425" WIDTH="194" HEIGHT="21" WC="0.96" CONTENT="HELSINGFORS"/><SP WIDTH="21" VPOS="1425" HPOS="550"/>
+							<String ID="string_21" HPOS="571" VPOS="1425" WIDTH="57" HEIGHT="18" WC="0.95" CONTENT="1907"/>
+						</TextLine>
+						<TextLine ID="line_7" HPOS="351" VPOS="1465" WIDTH="325" HEIGHT="12">
+							<String ID="string_22" HPOS="351" VPOS="1465" WIDTH="143" HEIGHT="12" WC="0.78" CONTENT="&#39;TRALTRYCKERI"/><SP WIDTH="14" VPOS="1465" HPOS="494"/>
+							<String ID="string_23" HPOS="508" VPOS="1465" WIDTH="37" HEIGHT="11" WC="0.93" CONTENT="OCH"/><SP WIDTH="15" VPOS="1465" HPOS="545"/>
+							<String ID="string_24" HPOS="560" VPOS="1465" WIDTH="116" HEIGHT="11" WC="0.92" CONTENT="BOKBINDERI"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
