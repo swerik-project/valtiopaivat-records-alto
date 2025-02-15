@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_3snq7tix_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1095" HEIGHT="1773" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1095" HEIGHT="1773">
+				<ComposedBlock ID="cblock_0" HPOS="326" VPOS="351" WIDTH="307" HEIGHT="45">
+					<TextBlock ID="block_0" HPOS="326" VPOS="351" WIDTH="307" HEIGHT="45">
+						<TextLine ID="line_0" HPOS="326" VPOS="351" WIDTH="307" HEIGHT="45">
+							<String ID="string_0" HPOS="326" VPOS="351" WIDTH="307" HEIGHT="45" WC="0.95" CONTENT="PROTOKOLL"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="74" VPOS="540" WIDTH="822" HEIGHT="87">
+					<TextBlock ID="block_1" HPOS="74" VPOS="540" WIDTH="822" HEIGHT="87">
+						<TextLine ID="line_1" HPOS="74" VPOS="540" WIDTH="822" HEIGHT="87">
+							<String ID="string_1" HPOS="74" VPOS="540" WIDTH="214" HEIGHT="87" WC="0.76" CONTENT="FINLANDS"/><SP WIDTH="44" VPOS="540" HPOS="288"/>
+							<String ID="string_2" HPOS="332" VPOS="541" WIDTH="280" HEIGHT="86" WC="0.82" CONTENT="RIDDERSKAP"/><SP WIDTH="42" VPOS="541" HPOS="612"/>
+							<String ID="string_3" HPOS="654" VPOS="541" WIDTH="86" HEIGHT="85" WC="0.83" CONTENT="OCH"/><SP WIDTH="45" VPOS="541" HPOS="740"/>
+							<String ID="string_4" HPOS="785" VPOS="540" WIDTH="111" HEIGHT="86" WC="0.76" CONTENT="ADEL"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="369" VPOS="765" WIDTH="234" HEIGHT="23">
+					<TextBlock ID="block_2" HPOS="369" VPOS="765" WIDTH="234" HEIGHT="23">
+						<TextLine ID="line_2" HPOS="369" VPOS="765" WIDTH="234" HEIGHT="23">
+							<String ID="string_5" HPOS="369" VPOS="765" WIDTH="234" HEIGHT="23" WC="0.92" CONTENT="LANDTDAGEN"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="319" VPOS="858" WIDTH="327" HEIGHT="35">
+					<TextBlock ID="block_3" HPOS="319" VPOS="858" WIDTH="327" HEIGHT="35">
+						<TextLine ID="line_3" HPOS="319" VPOS="858" WIDTH="327" HEIGHT="35">
+							<String ID="string_6" HPOS="319" VPOS="858" WIDTH="327" HEIGHT="35" WC="0.54" CONTENT="1904—190585."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_4" HPOS="416" VPOS="961" WIDTH="137" HEIGHT="3"></GraphicalElement >
+				<ComposedBlock ID="cblock_5" HPOS="341" VPOS="1039" WIDTH="280" HEIGHT="25">
+					<TextBlock ID="block_4" HPOS="341" VPOS="1039" WIDTH="280" HEIGHT="25">
+						<TextLine ID="line_4" HPOS="341" VPOS="1039" WIDTH="280" HEIGHT="25">
+							<String ID="string_7" HPOS="341" VPOS="1040" WIDTH="125" HEIGHT="24" WC="0.93" CONTENT="FÖRSTA"/><SP WIDTH="16" VPOS="1040" HPOS="466"/>
+							<String ID="string_8" HPOS="482" VPOS="1039" WIDTH="139" HEIGHT="24" WC="0.92" CONTENT="HÄFTET."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_6" HPOS="214" VPOS="1512" WIDTH="540" HEIGHT="30">
+					<TextBlock ID="block_5" HPOS="214" VPOS="1512" WIDTH="540" HEIGHT="30">
+						<TextLine ID="line_5" HPOS="214" VPOS="1512" WIDTH="540" HEIGHT="30">
+							<String ID="string_9" HPOS="214" VPOS="1516" WIDTH="214" HEIGHT="16" WC="0.93" CONTENT="HELSINGFORS"/><SP WIDTH="22" VPOS="1516" HPOS="428"/>
+							<String ID="string_10" HPOS="450" VPOS="1512" WIDTH="304" HEIGHT="30" WC="0.91" CONTENT="CENTRALTRYCKERI."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
