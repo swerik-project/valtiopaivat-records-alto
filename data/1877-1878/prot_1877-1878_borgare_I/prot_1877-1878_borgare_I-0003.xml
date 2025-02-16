@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_u_g8smkv_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1103" HEIGHT="1781" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1103" HEIGHT="1781">
+				<ComposedBlock ID="cblock_0" HPOS="193" VPOS="723" WIDTH="826" HEIGHT="63">
+					<TextBlock ID="block_0" HPOS="193" VPOS="723" WIDTH="826" HEIGHT="63">
+						<TextLine ID="line_0" HPOS="262" VPOS="723" WIDTH="757" HEIGHT="28">
+							<String ID="string_0" HPOS="262" VPOS="723" WIDTH="78" HEIGHT="28" WC="0.96" CONTENT="Enligt"/><SP WIDTH="28" VPOS="723" HPOS="340"/>
+							<String ID="string_1" HPOS="368" VPOS="724" WIDTH="100" HEIGHT="27" WC="0.96" CONTENT="uppdrag"/><SP WIDTH="29" VPOS="724" HPOS="468"/>
+							<String ID="string_2" HPOS="497" VPOS="724" WIDTH="27" HEIGHT="27" WC="0.96" CONTENT="af"/><SP WIDTH="22" VPOS="724" HPOS="524"/>
+							<String ID="string_3" HPOS="546" VPOS="723" WIDTH="108" HEIGHT="22" WC="0.93" CONTENT="Finlands"/><SP WIDTH="27" VPOS="723" HPOS="654"/>
+							<String ID="string_4" HPOS="681" VPOS="724" WIDTH="104" HEIGHT="21" WC="0.89" CONTENT="Ständers"/><SP WIDTH="28" VPOS="724" HPOS="785"/>
+							<String ID="string_5" HPOS="813" VPOS="723" WIDTH="206" HEIGHT="28" WC="0.92" CONTENT="Bankfullmäktige"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="193" VPOS="757" WIDTH="424" HEIGHT="29">
+							<String ID="string_6" HPOS="193" VPOS="757" WIDTH="70" HEIGHT="28" WC="0.96" CONTENT="hafva"/><SP WIDTH="16" VPOS="757" HPOS="263"/>
+							<String ID="string_7" HPOS="279" VPOS="759" WIDTH="61" HEIGHT="20" WC="0.96" CONTENT="dessa"/><SP WIDTH="14" VPOS="759" HPOS="340"/>
+							<String ID="string_8" HPOS="354" VPOS="759" WIDTH="110" HEIGHT="27" WC="0.93" CONTENT="protokoll"/><SP WIDTH="15" VPOS="759" HPOS="464"/>
+							<String ID="string_9" HPOS="479" VPOS="758" WIDTH="95" HEIGHT="28" WC="0.92" CONTENT="utgifvits"/><SP WIDTH="16" VPOS="758" HPOS="574"/>
+							<String ID="string_10" HPOS="590" VPOS="759" WIDTH="27" HEIGHT="27" WC="0.95" CONTENT="af"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="755" VPOS="799" WIDTH="191" HEIGHT="21">
+					<TextBlock ID="block_1" HPOS="755" VPOS="799" WIDTH="191" HEIGHT="21">
+						<TextLine ID="line_2" HPOS="755" VPOS="799" WIDTH="191" HEIGHT="21">
+							<String ID="string_11" HPOS="755" VPOS="799" WIDTH="22" HEIGHT="20" WC="0.92" CONTENT="N."/><SP WIDTH="16" VPOS="799" HPOS="777"/>
+							<String ID="string_12" HPOS="793" VPOS="799" WIDTH="21" HEIGHT="20" WC="0.92" CONTENT="B."/><SP WIDTH="18" VPOS="799" HPOS="814"/>
+							<String ID="string_13" HPOS="832" VPOS="799" WIDTH="114" HEIGHT="21" WC="0.95" CONTENT="Grotenfelt."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
