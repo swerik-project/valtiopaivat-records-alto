@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_fav08mys_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1081" HEIGHT="1848" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1081" HEIGHT="1848">
+				<GraphicalElement ID="cblock_0" HPOS="84" VPOS="114" WIDTH="801" HEIGHT="9"></GraphicalElement >
+				<GraphicalElement ID="cblock_1" HPOS="58" VPOS="428" WIDTH="3" HEIGHT="381"></GraphicalElement >
+				<GraphicalElement ID="cblock_2" HPOS="58" VPOS="1058" WIDTH="5" HEIGHT="474"></GraphicalElement >
+				<GraphicalElement ID="cblock_3" HPOS="953" VPOS="142" WIDTH="2" HEIGHT="1491"></GraphicalElement >
+				<GraphicalElement ID="cblock_4" HPOS="107" VPOS="1655" WIDTH="825" HEIGHT="4"></GraphicalElement >
+				<Illustration ID="cblock_5" HPOS="14" VPOS="18" WIDTH="1059" HEIGHT="1809"></Illustration>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
