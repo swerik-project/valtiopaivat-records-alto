@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_6m2uyz6y_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1089" HEIGHT="1811" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1089" HEIGHT="1811">
+				<GraphicalElement ID="cblock_0" HPOS="325" VPOS="841" WIDTH="547" HEIGHT="2"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="344" VPOS="849" WIDTH="513" HEIGHT="24">
+					<TextBlock ID="block_0" HPOS="344" VPOS="849" WIDTH="513" HEIGHT="24">
+						<TextLine ID="line_0" HPOS="344" VPOS="849" WIDTH="513" HEIGHT="24">
+							<String ID="string_0" HPOS="344" VPOS="849" WIDTH="109" HEIGHT="24" WC="0.73" CONTENT="Helsingissä"/><SP WIDTH="12" VPOS="849" HPOS="453"/>
+							<String ID="string_1" HPOS="465" VPOS="851" WIDTH="50" HEIGHT="18" WC="0.96" CONTENT="1897."/><SP WIDTH="23" VPOS="851" HPOS="515"/>
+							<String ID="string_2" HPOS="538" VPOS="850" WIDTH="91" HEIGHT="23" WC="0.93" CONTENT="Helsingin"/><SP WIDTH="12" VPOS="850" HPOS="629"/>
+							<String ID="string_3" HPOS="641" VPOS="849" WIDTH="216" HEIGHT="24" WC="0.85" CONTENT="Sentraalikirjapainossa."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="327" VPOS="881" WIDTH="546" HEIGHT="2"></GraphicalElement >
+				<GraphicalElement ID="cblock_3" HPOS="1087" VPOS="2" WIDTH="2" HEIGHT="365"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
