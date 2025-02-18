@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_gjz2jbd3_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1089" HEIGHT="1795" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1089" HEIGHT="1795">
+				<Illustration ID="cblock_0" HPOS="439" VPOS="728" WIDTH="14" HEIGHT="22"></Illustration>
+				<ComposedBlock ID="cblock_1" HPOS="329" VPOS="737" WIDTH="531" HEIGHT="18">
+					<TextBlock ID="block_0" HPOS="329" VPOS="737" WIDTH="531" HEIGHT="18">
+						<TextLine ID="line_0" HPOS="329" VPOS="737" WIDTH="531" HEIGHT="18">
+							<String ID="string_0" HPOS="329" VPOS="738" WIDTH="101" HEIGHT="15" WC="0.93" CONTENT="Helsingfors,"/><SP WIDTH="23" VPOS="738" HPOS="430"/>
+							<String ID="string_1" HPOS="453" VPOS="738" WIDTH="67" HEIGHT="16" WC="0.91" CONTENT="Tidnings-"/><SP WIDTH="9" VPOS="738" HPOS="520"/>
+							<String ID="string_2" HPOS="529" VPOS="737" WIDTH="12" HEIGHT="14" WC="0.92" CONTENT="&amp;"/><SP WIDTH="9" VPOS="737" HPOS="541"/>
+							<String ID="string_3" HPOS="550" VPOS="738" WIDTH="181" HEIGHT="17" WC="0.88" CONTENT="Tryckeriaktiebolagets"/><SP WIDTH="10" VPOS="738" HPOS="731"/>
+							<String ID="string_4" HPOS="741" VPOS="739" WIDTH="71" HEIGHT="16" WC="0.96" CONTENT="tryckeri,"/><SP WIDTH="10" VPOS="739" HPOS="812"/>
+							<String ID="string_5" HPOS="822" VPOS="739" WIDTH="38" HEIGHT="12" WC="0.96" CONTENT="1897."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_2" HPOS="286" VPOS="723" WIDTH="152" HEIGHT="11"></Illustration>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
