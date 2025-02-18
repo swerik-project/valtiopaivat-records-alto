@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_al88hao7_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1095" HEIGHT="1775" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1095" HEIGHT="1775">
+				<ComposedBlock ID="cblock_0" HPOS="176" VPOS="673" WIDTH="677" HEIGHT="61">
+					<TextBlock ID="block_0" HPOS="176" VPOS="673" WIDTH="677" HEIGHT="61">
+						<TextLine ID="line_0" HPOS="176" VPOS="673" WIDTH="677" HEIGHT="61">
+							<String ID="string_0" HPOS="176" VPOS="673" WIDTH="175" HEIGHT="51" WC="0.90" CONTENT="Jäsen-"/><SP WIDTH="31" VPOS="673" HPOS="351"/>
+							<String ID="string_1" HPOS="382" VPOS="676" WIDTH="58" HEIGHT="58" WC="0.93" CONTENT="ja"/><SP WIDTH="36" VPOS="676" HPOS="440"/>
+							<String ID="string_2" HPOS="476" VPOS="674" WIDTH="377" HEIGHT="52" WC="0.91" CONTENT="Aineluettelot."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="410" VPOS="889" WIDTH="207" HEIGHT="15">
+					<TextBlock ID="block_1" HPOS="410" VPOS="889" WIDTH="207" HEIGHT="15">
+						<TextLine ID="line_1" HPOS="410" VPOS="889" WIDTH="207" HEIGHT="15">
+							<String ID="string_3" HPOS="410" VPOS="889" WIDTH="207" HEIGHT="15" WC="0.0" CONTENT="—&gt;4£—"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="1091" VPOS="1452" WIDTH="2" HEIGHT="323"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

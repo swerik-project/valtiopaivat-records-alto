@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_ehfipx7t_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1092" HEIGHT="1778" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1092" HEIGHT="1778">
+				<ComposedBlock ID="cblock_0" HPOS="325" VPOS="644" WIDTH="368" HEIGHT="57">
+					<TextBlock ID="block_0" HPOS="325" VPOS="644" WIDTH="368" HEIGHT="57">
+						<TextLine ID="line_0" HPOS="325" VPOS="644" WIDTH="368" HEIGHT="57">
+							<String ID="string_0" HPOS="325" VPOS="644" WIDTH="368" HEIGHT="57" WC="0.96" CONTENT="LIITE"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="196" VPOS="748" WIDTH="617" HEIGHT="156">
+					<TextBlock ID="block_1" HPOS="196" VPOS="748" WIDTH="617" HEIGHT="156">
+						<TextLine ID="line_1" HPOS="446" VPOS="748" WIDTH="118" HEIGHT="18">
+							<String ID="string_1" HPOS="446" VPOS="748" WIDTH="118" HEIGHT="18" WC="0.96" CONTENT="SISÄLTÄVÄ"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="196" VPOS="809" WIDTH="617" HEIGHT="25">
+							<String ID="string_2" HPOS="196" VPOS="809" WIDTH="226" HEIGHT="25" WC="0.91" CONTENT="PAPPISSÄÄDYN"/><SP WIDTH="16" VPOS="809" HPOS="422"/>
+							<String ID="string_3" HPOS="438" VPOS="812" WIDTH="375" HEIGHT="22" WC="0.92" CONTENT="SEKREETTI-ISTUNNOISSA"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="238" VPOS="874" WIDTH="533" HEIGHT="30">
+							<String ID="string_4" HPOS="238" VPOS="878" WIDTH="181" HEIGHT="21" WC="0.96" CONTENT="HELMIKUUN"/><SP WIDTH="15" VPOS="878" HPOS="419"/>
+							<String ID="string_5" HPOS="434" VPOS="876" WIDTH="22" HEIGHT="27" WC="0.94" CONTENT="8,"/><SP WIDTH="16" VPOS="876" HPOS="456"/>
+							<String ID="string_6" HPOS="472" VPOS="877" WIDTH="21" HEIGHT="26" WC="0.96" CONTENT="5,"/><SP WIDTH="16" VPOS="877" HPOS="493"/>
+							<String ID="string_7" HPOS="509" VPOS="877" WIDTH="36" HEIGHT="26" WC="0.95" CONTENT="12,"/><SP WIDTH="15" VPOS="877" HPOS="545"/>
+							<String ID="string_8" HPOS="560" VPOS="877" WIDTH="29" HEIGHT="22" WC="0.96" CONTENT="18"/><SP WIDTH="15" VPOS="877" HPOS="589"/>
+							<String ID="string_9" HPOS="604" VPOS="878" WIDTH="34" HEIGHT="26" WC="0.96" CONTENT="JA"/><SP WIDTH="16" VPOS="878" HPOS="638"/>
+							<String ID="string_10" HPOS="654" VPOS="876" WIDTH="31" HEIGHT="22" WC="0.93" CONTENT="23"/><SP WIDTH="16" VPOS="876" HPOS="685"/>
+							<String ID="string_11" HPOS="701" VPOS="874" WIDTH="70" HEIGHT="25" WC="0.93" CONTENT="P:NÄ"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="329" VPOS="942" WIDTH="355" HEIGHT="29">
+					<TextBlock ID="block_2" HPOS="329" VPOS="942" WIDTH="355" HEIGHT="29">
+						<TextLine ID="line_4" HPOS="329" VPOS="942" WIDTH="355" HEIGHT="29">
+							<String ID="string_12" HPOS="329" VPOS="945" WIDTH="126" HEIGHT="20" WC="0.96" CONTENT="TEHDYT"/><SP WIDTH="15" VPOS="945" HPOS="455"/>
+							<String ID="string_13" HPOS="470" VPOS="942" WIDTH="214" HEIGHT="29" WC="0.96" CONTENT="PÖYTÄKIRJAT."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_3" HPOS="1089" VPOS="1406" WIDTH="3" HEIGHT="372"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

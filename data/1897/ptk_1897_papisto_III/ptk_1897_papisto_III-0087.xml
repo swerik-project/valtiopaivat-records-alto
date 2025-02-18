@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_8r92stwu_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1092" HEIGHT="1778" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1092" HEIGHT="1778">
+				<ComposedBlock ID="cblock_0" HPOS="212" VPOS="145" WIDTH="451" HEIGHT="80">
+					<TextBlock ID="block_0" HPOS="212" VPOS="145" WIDTH="451" HEIGHT="80">
+						<TextLine ID="line_0" HPOS="212" VPOS="145" WIDTH="451" HEIGHT="32">
+							<String ID="string_0" HPOS="212" VPOS="145" WIDTH="58" HEIGHT="32" WC="0.94" CONTENT="1622"/><SP WIDTH="244" VPOS="145" HPOS="270"/>
+							<String ID="string_1" HPOS="514" VPOS="150" WIDTH="82" HEIGHT="18" WC="0.93" CONTENT="Toukok."/><SP WIDTH="14" VPOS="150" HPOS="596"/>
+							<String ID="string_2" HPOS="610" VPOS="151" WIDTH="19" HEIGHT="18" WC="0.91" CONTENT="21"/><SP WIDTH="17" VPOS="151" HPOS="629"/>
+							<String ID="string_3" HPOS="646" VPOS="155" WIDTH="17" HEIGHT="18" WC="0.88" CONTENT="p."/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="252" VPOS="203" WIDTH="128" HEIGHT="22">
+							<String ID="string_4" HPOS="252" VPOS="203" WIDTH="128" HEIGHT="22" WC="0.89" CONTENT="Keskustelu:"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="176" VPOS="262" WIDTH="825" HEIGHT="1300">
+					<TextBlock ID="block_1" HPOS="180" VPOS="262" WIDTH="819" HEIGHT="113">
+						<TextLine ID="line_2" HPOS="252" VPOS="262" WIDTH="747" HEIGHT="30">
+							<String ID="string_5" HPOS="252" VPOS="263" WIDTH="122" HEIGHT="22" WC="0.96" CONTENT="Professori"/><SP WIDTH="18" VPOS="263" HPOS="374"/>
+							<String ID="string_6" HPOS="392" VPOS="263" WIDTH="87" HEIGHT="22" WC="0.92" CONTENT="Donner:"/><SP WIDTH="31" VPOS="263" HPOS="479"/>
+							<String ID="string_7" HPOS="510" VPOS="263" WIDTH="34" HEIGHT="22" WC="0.92" CONTENT="Dä"/><SP WIDTH="15" VPOS="263" HPOS="544"/>
+							<String ID="string_8" HPOS="559" VPOS="263" WIDTH="72" HEIGHT="22" WC="0.93" CONTENT="denna"/><SP WIDTH="17" VPOS="263" HPOS="631"/>
+							<String ID="string_9" HPOS="648" VPOS="262" WIDTH="63" HEIGHT="29" WC="0.92" CONTENT="fräga"/><SP WIDTH="15" VPOS="262" HPOS="711"/>
+							<String ID="string_10" HPOS="726" VPOS="264" WIDTH="26" HEIGHT="21" WC="0.96" CONTENT="är"/><SP WIDTH="10" VPOS="264" HPOS="752"/>
+							<String ID="string_11" HPOS="762" VPOS="269" WIDTH="28" HEIGHT="16" WC="0.93" CONTENT="en"/><SP WIDTH="11" VPOS="269" HPOS="790"/>
+							<String ID="string_12" HPOS="801" VPOS="263" WIDTH="198" HEIGHT="29" WC="0.92" CONTENT="bevillningsfräga"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="180" VPOS="293" WIDTH="819" HEIGHT="22">
+							<String ID="string_13" HPOS="180" VPOS="293" WIDTH="41" HEIGHT="22" WC="0.96" CONTENT="och"/><SP WIDTH="20" VPOS="293" HPOS="221"/>
+							<String ID="string_14" HPOS="241" VPOS="293" WIDTH="37" HEIGHT="22" WC="0.93" CONTENT="det"/><SP WIDTH="15" VPOS="293" HPOS="278"/>
+							<String ID="string_15" HPOS="293" VPOS="293" WIDTH="94" HEIGHT="22" WC="0.91" CONTENT="sälunda"/><SP WIDTH="15" VPOS="293" HPOS="387"/>
+							<String ID="string_16" HPOS="402" VPOS="293" WIDTH="112" HEIGHT="22" WC="0.91" CONTENT="erfordras"/><SP WIDTH="15" VPOS="293" HPOS="514"/>
+							<String ID="string_17" HPOS="529" VPOS="293" WIDTH="45" HEIGHT="22" WC="0.93" CONTENT="alla"/><SP WIDTH="15" VPOS="293" HPOS="574"/>
+							<String ID="string_18" HPOS="589" VPOS="293" WIDTH="75" HEIGHT="22" WC="0.93" CONTENT="ständs"/><SP WIDTH="16" VPOS="293" HPOS="664"/>
+							<String ID="string_19" HPOS="680" VPOS="293" WIDTH="63" HEIGHT="22" WC="0.91" CONTENT="bifall"/><SP WIDTH="15" VPOS="293" HPOS="743"/>
+							<String ID="string_20" HPOS="758" VPOS="293" WIDTH="74" HEIGHT="22" WC="0.92" CONTENT="dertill"/><SP WIDTH="11" VPOS="293" HPOS="832"/>
+							<String ID="string_21" HPOS="843" VPOS="293" WIDTH="35" HEIGHT="22" WC="0.96" CONTENT="för"/><SP WIDTH="10" VPOS="293" HPOS="878"/>
+							<String ID="string_22" HPOS="888" VPOS="295" WIDTH="33" HEIGHT="20" WC="0.96" CONTENT="att"/><SP WIDTH="9" VPOS="295" HPOS="921"/>
+							<String ID="string_23" HPOS="930" VPOS="293" WIDTH="69" HEIGHT="22" WC="0.96" CONTENT="saken"/>
+						</TextLine>
+						<TextLine ID="line_4" HPOS="180" VPOS="322" WIDTH="817" HEIGHT="30">
+							<String ID="string_24" HPOS="180" VPOS="323" WIDTH="49" HEIGHT="22" WC="0.92" CONTENT="icke"/><SP WIDTH="16" VPOS="323" HPOS="229"/>
+							<String ID="string_25" HPOS="245" VPOS="323" WIDTH="57" HEIGHT="22" WC="0.93" CONTENT="skall"/><SP WIDTH="16" VPOS="323" HPOS="302"/>
+							<String ID="string_26" HPOS="318" VPOS="323" WIDTH="97" HEIGHT="26" WC="0.88" CONTENT="förfalla,"/><SP WIDTH="16" VPOS="323" HPOS="415"/>
+							<String ID="string_27" HPOS="431" VPOS="322" WIDTH="24" HEIGHT="23" WC="0.93" CONTENT="sä"/><SP WIDTH="15" VPOS="322" HPOS="455"/>
+							<String ID="string_28" HPOS="470" VPOS="323" WIDTH="69" HEIGHT="29" WC="0.92" CONTENT="vägar"/><SP WIDTH="13" VPOS="323" HPOS="539"/>
+							<String ID="string_29" HPOS="552" VPOS="323" WIDTH="40" HEIGHT="28" WC="0.93" CONTENT="jag"/><SP WIDTH="16" VPOS="323" HPOS="592"/>
+							<String ID="string_30" HPOS="608" VPOS="322" WIDTH="82" HEIGHT="23" WC="0.92" CONTENT="föreslä"/><SP WIDTH="14" VPOS="322" HPOS="690"/>
+							<String ID="string_31" HPOS="704" VPOS="325" WIDTH="34" HEIGHT="20" WC="0.93" CONTENT="att"/><SP WIDTH="15" VPOS="325" HPOS="738"/>
+							<String ID="string_32" HPOS="753" VPOS="323" WIDTH="87" HEIGHT="22" WC="0.92" CONTENT="ständet"/><SP WIDTH="16" VPOS="323" HPOS="840"/>
+							<String ID="string_33" HPOS="856" VPOS="323" WIDTH="52" HEIGHT="22" WC="0.93" CONTENT="ville"/><SP WIDTH="11" VPOS="323" HPOS="908"/>
+							<String ID="string_34" HPOS="919" VPOS="323" WIDTH="78" HEIGHT="22" WC="0.92" CONTENT="bifalla"/>
+						</TextLine>
+						<TextLine ID="line_5" HPOS="180" VPOS="353" WIDTH="278" HEIGHT="22">
+							<String ID="string_35" HPOS="180" VPOS="353" WIDTH="35" HEIGHT="21" WC="0.96" CONTENT="till"/><SP WIDTH="15" VPOS="353" HPOS="215"/>
+							<String ID="string_36" HPOS="230" VPOS="353" WIDTH="73" HEIGHT="22" WC="0.93" CONTENT="denna"/><SP WIDTH="14" VPOS="353" HPOS="303"/>
+							<String ID="string_37" HPOS="317" VPOS="353" WIDTH="141" HEIGHT="21" WC="0.92" CONTENT="hemställan."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_2" HPOS="176" VPOS="382" WIDTH="823" HEIGHT="207">
+						<TextLine ID="line_6" HPOS="252" VPOS="382" WIDTH="747" HEIGHT="29">
+							<String ID="string_38" HPOS="252" VPOS="382" WIDTH="192" HEIGHT="29" WC="0.60" CONTENT="Tuomioprovasti"/><SP WIDTH="25" VPOS="382" HPOS="444"/>
+							<String ID="string_39" HPOS="469" VPOS="382" WIDTH="161" HEIGHT="28" WC="0.60" CONTENT="Schwartzberg:"/><SP WIDTH="32" VPOS="382" HPOS="630"/>
+							<String ID="string_40" HPOS="662" VPOS="382" WIDTH="68" HEIGHT="28" WC="0.96" CONTENT="Kyllä"/><SP WIDTH="22" VPOS="382" HPOS="730"/>
+							<String ID="string_41" HPOS="752" VPOS="389" WIDTH="25" HEIGHT="15" WC="0.96" CONTENT="se"/><SP WIDTH="24" VPOS="389" HPOS="777"/>
+							<String ID="string_42" HPOS="801" VPOS="384" WIDTH="101" HEIGHT="20" WC="0.96" CONTENT="muuttaa"/><SP WIDTH="21" VPOS="384" HPOS="902"/>
+							<String ID="string_43" HPOS="923" VPOS="384" WIDTH="76" HEIGHT="21" WC="0.96" CONTENT="tämän"/>
+						</TextLine>
+						<TextLine ID="line_7" HPOS="180" VPOS="412" WIDTH="818" HEIGHT="29">
+							<String ID="string_44" HPOS="180" VPOS="412" WIDTH="153" HEIGHT="29" WC="0.96" CONTENT="kysymyksen"/><SP WIDTH="15" VPOS="412" HPOS="333"/>
+							<String ID="string_45" HPOS="348" VPOS="413" WIDTH="82" HEIGHT="25" WC="0.96" CONTENT="laatua,"/><SP WIDTH="14" VPOS="413" HPOS="430"/>
+							<String ID="string_46" HPOS="444" VPOS="412" WIDTH="36" HEIGHT="27" WC="0.93" CONTENT="jos"/><SP WIDTH="16" VPOS="412" HPOS="480"/>
+							<String ID="string_47" HPOS="496" VPOS="412" WIDTH="143" HEIGHT="29" WC="0.92" CONTENT="pappissääty"/><SP WIDTH="16" VPOS="412" HPOS="639"/>
+							<String ID="string_48" HPOS="655" VPOS="412" WIDTH="173" HEIGHT="28" WC="0.96" CONTENT="päätöksestään"/><SP WIDTH="14" VPOS="412" HPOS="828"/>
+							<String ID="string_49" HPOS="842" VPOS="412" WIDTH="91" HEIGHT="28" WC="0.95" CONTENT="luopuu."/><SP WIDTH="26" VPOS="412" HPOS="933"/>
+							<String ID="string_50" HPOS="959" VPOS="412" WIDTH="39" HEIGHT="22" WC="0.95" CONTENT="Jos"/>
+						</TextLine>
+						<TextLine ID="line_8" HPOS="181" VPOS="441" WIDTH="817" HEIGHT="29">
+							<String ID="string_51" HPOS="181" VPOS="442" WIDTH="50" HEIGHT="21" WC="0.96" CONTENT="siitä"/><SP WIDTH="24" VPOS="442" HPOS="231"/>
+							<String ID="string_52" HPOS="255" VPOS="448" WIDTH="72" HEIGHT="16" WC="0.96" CONTENT="ennen"/><SP WIDTH="23" VPOS="448" HPOS="327"/>
+							<String ID="string_53" HPOS="350" VPOS="442" WIDTH="20" HEIGHT="21" WC="0.96" CONTENT="ei"/><SP WIDTH="19" VPOS="442" HPOS="370"/>
+							<String ID="string_54" HPOS="389" VPOS="441" WIDTH="49" HEIGHT="22" WC="0.96" CONTENT="olisi"/><SP WIDTH="15" VPOS="441" HPOS="438"/>
+							<String ID="string_55" HPOS="453" VPOS="442" WIDTH="57" HEIGHT="21" WC="0.93" CONTENT="ollut"/><SP WIDTH="14" VPOS="442" HPOS="510"/>
+							<String ID="string_56" HPOS="524" VPOS="442" WIDTH="198" HEIGHT="28" WC="0.92" CONTENT="kysymystäkään,"/><SP WIDTH="16" VPOS="442" HPOS="722"/>
+							<String ID="string_57" HPOS="738" VPOS="442" WIDTH="46" HEIGHT="22" WC="0.97" CONTENT="niin"/><SP WIDTH="15" VPOS="442" HPOS="784"/>
+							<String ID="string_58" HPOS="799" VPOS="442" WIDTH="47" HEIGHT="22" WC="0.96" CONTENT="asia"/><SP WIDTH="16" VPOS="442" HPOS="846"/>
+							<String ID="string_59" HPOS="862" VPOS="442" WIDTH="49" HEIGHT="22" WC="0.93" CONTENT="olisi"/><SP WIDTH="14" VPOS="442" HPOS="911"/>
+							<String ID="string_60" HPOS="925" VPOS="442" WIDTH="73" HEIGHT="22" WC="0.92" CONTENT="toisel-"/>
+						</TextLine>
+						<TextLine ID="line_9" HPOS="180" VPOS="471" WIDTH="819" HEIGHT="28">
+							<String ID="string_61" HPOS="180" VPOS="471" WIDTH="81" HEIGHT="27" WC="0.96" CONTENT="lainen,"/><SP WIDTH="23" VPOS="471" HPOS="261"/>
+							<String ID="string_62" HPOS="284" VPOS="478" WIDTH="59" HEIGHT="15" WC="0.96" CONTENT="vaan"/><SP WIDTH="22" VPOS="478" HPOS="343"/>
+							<String ID="string_63" HPOS="365" VPOS="472" WIDTH="46" HEIGHT="21" WC="0.96" CONTENT="kun"/><SP WIDTH="16" VPOS="472" HPOS="411"/>
+							<String ID="string_64" HPOS="427" VPOS="471" WIDTH="51" HEIGHT="22" WC="0.96" CONTENT="siitä"/><SP WIDTH="15" VPOS="471" HPOS="478"/>
+							<String ID="string_65" HPOS="493" VPOS="478" WIDTH="29" HEIGHT="15" WC="0.96" CONTENT="on"/><SP WIDTH="15" VPOS="478" HPOS="522"/>
+							<String ID="string_66" HPOS="537" VPOS="471" WIDTH="56" HEIGHT="23" WC="0.96" CONTENT="ollut"/><SP WIDTH="15" VPOS="471" HPOS="593"/>
+							<String ID="string_67" HPOS="608" VPOS="471" WIDTH="108" HEIGHT="28" WC="0.96" CONTENT="kysymys"/><SP WIDTH="14" VPOS="471" HPOS="716"/>
+							<String ID="string_68" HPOS="730" VPOS="472" WIDTH="25" HEIGHT="27" WC="0.96" CONTENT="ja"/><SP WIDTH="16" VPOS="472" HPOS="755"/>
+							<String ID="string_69" HPOS="771" VPOS="473" WIDTH="60" HEIGHT="20" WC="0.93" CONTENT="tässä"/><SP WIDTH="15" VPOS="473" HPOS="831"/>
+							<String ID="string_70" HPOS="846" VPOS="472" WIDTH="108" HEIGHT="27" WC="0.91" CONTENT="säädyssä"/><SP WIDTH="16" VPOS="472" HPOS="954"/>
+							<String ID="string_71" HPOS="970" VPOS="477" WIDTH="29" HEIGHT="17" WC="0.96" CONTENT="on"/>
+						</TextLine>
+						<TextLine ID="line_10" HPOS="180" VPOS="501" WIDTH="819" HEIGHT="28">
+							<String ID="string_72" HPOS="180" VPOS="501" WIDTH="51" HEIGHT="22" WC="0.95" CONTENT="siitä"/><SP WIDTH="15" VPOS="501" HPOS="231"/>
+							<String ID="string_73" HPOS="246" VPOS="502" WIDTH="83" HEIGHT="21" WC="0.96" CONTENT="asiasta"/><SP WIDTH="15" VPOS="502" HPOS="329"/>
+							<String ID="string_74" HPOS="344" VPOS="501" WIDTH="60" HEIGHT="28" WC="0.96" CONTENT="paljo"/><SP WIDTH="16" VPOS="501" HPOS="404"/>
+							<String ID="string_75" HPOS="420" VPOS="501" WIDTH="139" HEIGHT="22" WC="0.96" CONTENT="keskusteltu"/><SP WIDTH="13" VPOS="501" HPOS="559"/>
+							<String ID="string_76" HPOS="572" VPOS="501" WIDTH="26" HEIGHT="28" WC="0.96" CONTENT="ja"/><SP WIDTH="10" VPOS="501" HPOS="598"/>
+							<String ID="string_77" HPOS="608" VPOS="501" WIDTH="70" HEIGHT="22" WC="0.96" CONTENT="siihen"/><SP WIDTH="11" VPOS="501" HPOS="678"/>
+							<String ID="string_78" HPOS="689" VPOS="501" WIDTH="80" HEIGHT="28" WC="0.96" CONTENT="painoa"/><SP WIDTH="11" VPOS="501" HPOS="769"/>
+							<String ID="string_79" HPOS="780" VPOS="503" WIDTH="76" HEIGHT="26" WC="0.96" CONTENT="pantu,"/><SP WIDTH="11" VPOS="503" HPOS="856"/>
+							<String ID="string_80" HPOS="867" VPOS="501" WIDTH="45" HEIGHT="22" WC="0.96" CONTENT="niin"/><SP WIDTH="11" VPOS="501" HPOS="912"/>
+							<String ID="string_81" HPOS="923" VPOS="502" WIDTH="76" HEIGHT="22" WC="0.96" CONTENT="minun"/>
+						</TextLine>
+						<TextLine ID="line_11" HPOS="176" VPOS="531" WIDTH="823" HEIGHT="29">
+							<String ID="string_82" HPOS="176" VPOS="549" WIDTH="1" HEIGHT="3" WC="0.0" CONTENT="|"/><SP WIDTH="5" VPOS="549" HPOS="177"/>
+							<String ID="string_83" HPOS="182" VPOS="531" WIDTH="133" HEIGHT="22" WC="0.0" CONTENT="luullakseni"/><SP WIDTH="16" VPOS="531" HPOS="315"/>
+							<String ID="string_84" HPOS="331" VPOS="531" WIDTH="20" HEIGHT="22" WC="0.96" CONTENT="ei"/><SP WIDTH="16" VPOS="531" HPOS="351"/>
+							<String ID="string_85" HPOS="367" VPOS="531" WIDTH="48" HEIGHT="22" WC="0.96" CONTENT="olisi"/><SP WIDTH="16" VPOS="531" HPOS="415"/>
+							<String ID="string_86" HPOS="431" VPOS="531" WIDTH="99" HEIGHT="22" WC="0.96" CONTENT="viisaasti"/><SP WIDTH="15" VPOS="531" HPOS="530"/>
+							<String ID="string_87" HPOS="545" VPOS="531" WIDTH="63" HEIGHT="28" WC="0.96" CONTENT="tehty"/><SP WIDTH="16" VPOS="531" HPOS="608"/>
+							<String ID="string_88" HPOS="624" VPOS="532" WIDTH="47" HEIGHT="21" WC="0.93" CONTENT="että"/><SP WIDTH="15" VPOS="532" HPOS="671"/>
+							<String ID="string_89" HPOS="686" VPOS="531" WIDTH="145" HEIGHT="28" WC="0.92" CONTENT="pappissääty"/><SP WIDTH="11" VPOS="531" HPOS="831"/>
+							<String ID="string_90" HPOS="842" VPOS="531" WIDTH="95" HEIGHT="28" WC="0.93" CONTENT="luopuisi"/><SP WIDTH="11" VPOS="531" HPOS="937"/>
+							<String ID="string_91" HPOS="948" VPOS="532" WIDTH="51" HEIGHT="28" WC="0.93" CONTENT="pää-"/>
+						</TextLine>
+						<TextLine ID="line_12" HPOS="176" VPOS="561" WIDTH="823" HEIGHT="28">
+							<String ID="string_92" HPOS="176" VPOS="561" WIDTH="139" HEIGHT="22" WC="0.79" CONTENT="|töksestään."/><SP WIDTH="38" VPOS="561" HPOS="315"/>
+							<String ID="string_93" HPOS="353" VPOS="561" WIDTH="76" HEIGHT="22" WC="0.72" CONTENT="Minun"/><SP WIDTH="27" VPOS="561" HPOS="429"/>
+							<String ID="string_94" HPOS="456" VPOS="561" WIDTH="123" HEIGHT="22" WC="0.96" CONTENT="mielestäni"/><SP WIDTH="25" VPOS="561" HPOS="579"/>
+							<String ID="string_95" HPOS="604" VPOS="561" WIDTH="48" HEIGHT="22" WC="0.96" CONTENT="olisi"/><SP WIDTH="26" VPOS="561" HPOS="652"/>
+							<String ID="string_96" HPOS="678" VPOS="561" WIDTH="165" HEIGHT="28" WC="0.96" CONTENT="pappissäädyn"/><SP WIDTH="23" VPOS="561" HPOS="843"/>
+							<String ID="string_97" HPOS="866" VPOS="562" WIDTH="133" HEIGHT="27" WC="0.96" CONTENT="pysyminen"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_3" HPOS="180" VPOS="621" WIDTH="819" HEIGHT="378">
+						<TextLine ID="line_13" HPOS="252" VPOS="621" WIDTH="747" HEIGHT="28">
+							<String ID="string_98" HPOS="252" VPOS="621" WIDTH="124" HEIGHT="22" WC="0.96" CONTENT="Professori"/><SP WIDTH="19" VPOS="621" HPOS="376"/>
+							<String ID="string_99" HPOS="395" VPOS="621" WIDTH="105" HEIGHT="21" WC="0.96" CONTENT="Forsman:"/><SP WIDTH="32" VPOS="621" HPOS="500"/>
+							<String ID="string_100" HPOS="532" VPOS="621" WIDTH="68" HEIGHT="28" WC="0.96" CONTENT="Kyllä"/><SP WIDTH="14" VPOS="621" HPOS="600"/>
+							<String ID="string_101" HPOS="614" VPOS="627" WIDTH="24" HEIGHT="16" WC="0.96" CONTENT="se"/><SP WIDTH="16" VPOS="627" HPOS="638"/>
+							<String ID="string_102" HPOS="654" VPOS="623" WIDTH="81" HEIGHT="20" WC="0.96" CONTENT="tuntuu"/><SP WIDTH="11" VPOS="623" HPOS="735"/>
+							<String ID="string_103" HPOS="746" VPOS="621" WIDTH="96" HEIGHT="22" WC="0.96" CONTENT="minusta"/><SP WIDTH="10" VPOS="621" HPOS="842"/>
+							<String ID="string_104" HPOS="852" VPOS="621" WIDTH="74" HEIGHT="22" WC="0.93" CONTENT="vähän"/><SP WIDTH="11" VPOS="621" HPOS="926"/>
+							<String ID="string_105" HPOS="937" VPOS="621" WIDTH="62" HEIGHT="22" WC="0.92" CONTENT="kum-"/>
+						</TextLine>
+						<TextLine ID="line_14" HPOS="181" VPOS="650" WIDTH="818" HEIGHT="29">
+							<String ID="string_106" HPOS="181" VPOS="650" WIDTH="124" HEIGHT="26" WC="0.92" CONTENT="malliselta,"/><SP WIDTH="22" VPOS="650" HPOS="305"/>
+							<String ID="string_107" HPOS="327" VPOS="651" WIDTH="36" HEIGHT="27" WC="0.92" CONTENT="jos"/><SP WIDTH="24" VPOS="651" HPOS="363"/>
+							<String ID="string_108" HPOS="387" VPOS="651" WIDTH="143" HEIGHT="27" WC="0.92" CONTENT="pappissääty"/><SP WIDTH="22" VPOS="651" HPOS="530"/>
+							<String ID="string_109" HPOS="552" VPOS="652" WIDTH="41" HEIGHT="27" WC="0.96" CONTENT="nyt"/><SP WIDTH="22" VPOS="652" HPOS="593"/>
+							<String ID="string_110" HPOS="615" VPOS="651" WIDTH="76" HEIGHT="27" WC="0.96" CONTENT="yhden"/><SP WIDTH="21" VPOS="651" HPOS="691"/>
+							<String ID="string_111" HPOS="712" VPOS="657" WIDTH="71" HEIGHT="15" WC="0.96" CONTENT="sanan"/><SP WIDTH="14" VPOS="657" HPOS="783"/>
+							<String ID="string_112" HPOS="797" VPOS="651" WIDTH="61" HEIGHT="22" WC="0.96" CONTENT="takia"/><SP WIDTH="15" VPOS="651" HPOS="858"/>
+							<String ID="string_113" HPOS="873" VPOS="651" WIDTH="71" HEIGHT="27" WC="0.93" CONTENT="panisi"/><SP WIDTH="16" VPOS="651" HPOS="944"/>
+							<String ID="string_114" HPOS="960" VPOS="651" WIDTH="39" HEIGHT="22" WC="0.93" CONTENT="ku-"/>
+						</TextLine>
+						<TextLine ID="line_15" HPOS="182" VPOS="680" WIDTH="817" HEIGHT="28">
+							<String ID="string_115" HPOS="182" VPOS="686" WIDTH="65" HEIGHT="16" WC="0.96" CONTENT="moon"/><SP WIDTH="15" VPOS="686" HPOS="247"/>
+							<String ID="string_116" HPOS="262" VPOS="680" WIDTH="52" HEIGHT="22" WC="0.96" CONTENT="näin"/><SP WIDTH="15" VPOS="680" HPOS="314"/>
+							<String ID="string_117" HPOS="329" VPOS="680" WIDTH="93" HEIGHT="22" WC="0.96" CONTENT="tärkeän"/><SP WIDTH="17" VPOS="680" HPOS="422"/>
+							<String ID="string_118" HPOS="439" VPOS="680" WIDTH="68" HEIGHT="27" WC="0.96" CONTENT="asian,"/><SP WIDTH="17" VPOS="680" HPOS="507"/>
+							<String ID="string_119" HPOS="524" VPOS="681" WIDTH="52" HEIGHT="21" WC="0.96" CONTENT="kuin"/><SP WIDTH="16" VPOS="681" HPOS="576"/>
+							<String ID="string_120" HPOS="592" VPOS="681" WIDTH="61" HEIGHT="21" WC="0.96" CONTENT="tämä"/><SP WIDTH="15" VPOS="681" HPOS="653"/>
+							<String ID="string_121" HPOS="668" VPOS="681" WIDTH="102" HEIGHT="27" WC="0.96" CONTENT="puheena"/><SP WIDTH="16" VPOS="681" HPOS="770"/>
+							<String ID="string_122" HPOS="786" VPOS="681" WIDTH="65" HEIGHT="21" WC="0.96" CONTENT="oleva"/><SP WIDTH="15" VPOS="681" HPOS="851"/>
+							<String ID="string_123" HPOS="866" VPOS="686" WIDTH="36" HEIGHT="17" WC="0.96" CONTENT="on."/><SP WIDTH="26" VPOS="686" HPOS="902"/>
+							<String ID="string_124" HPOS="928" VPOS="680" WIDTH="71" HEIGHT="23" WC="0.95" CONTENT="Eihän"/>
+						</TextLine>
+						<TextLine ID="line_16" HPOS="180" VPOS="709" WIDTH="818" HEIGHT="29">
+							<String ID="string_125" HPOS="180" VPOS="711" WIDTH="41" HEIGHT="26" WC="0.89" CONTENT="nyt"/><SP WIDTH="16" VPOS="711" HPOS="221"/>
+							<String ID="string_126" HPOS="237" VPOS="710" WIDTH="74" HEIGHT="21" WC="0.96" CONTENT="minun"/><SP WIDTH="16" VPOS="710" HPOS="311"/>
+							<String ID="string_127" HPOS="327" VPOS="709" WIDTH="133" HEIGHT="22" WC="0.96" CONTENT="luullakseni"/><SP WIDTH="16" VPOS="709" HPOS="460"/>
+							<String ID="string_128" HPOS="476" VPOS="712" WIDTH="64" HEIGHT="19" WC="0.96" CONTENT="saata"/><SP WIDTH="14" VPOS="712" HPOS="540"/>
+							<String ID="string_129" HPOS="554" VPOS="710" WIDTH="56" HEIGHT="22" WC="0.96" CONTENT="tulla"/><SP WIDTH="15" VPOS="710" HPOS="610"/>
+							<String ID="string_130" HPOS="625" VPOS="710" WIDTH="132" HEIGHT="21" WC="0.96" CONTENT="kenenkään"/><SP WIDTH="16" VPOS="710" HPOS="757"/>
+							<String ID="string_131" HPOS="773" VPOS="710" WIDTH="94" HEIGHT="22" WC="0.96" CONTENT="mieleen"/><SP WIDTH="16" VPOS="710" HPOS="867"/>
+							<String ID="string_132" HPOS="883" VPOS="711" WIDTH="46" HEIGHT="20" WC="0.93" CONTENT="että"/><SP WIDTH="18" VPOS="711" HPOS="929"/>
+							<String ID="string_133" HPOS="947" VPOS="716" WIDTH="51" HEIGHT="22" WC="0.91" CONTENT="pap-"/>
+						</TextLine>
+						<TextLine ID="line_17" HPOS="180" VPOS="739" WIDTH="818" HEIGHT="29">
+							<String ID="string_134" HPOS="180" VPOS="740" WIDTH="99" HEIGHT="27" WC="0.92" CONTENT="pissääty"/><SP WIDTH="11" VPOS="740" HPOS="279"/>
+							<String ID="string_135" HPOS="290" VPOS="739" WIDTH="53" HEIGHT="22" WC="0.96" CONTENT="soisi"/><SP WIDTH="15" VPOS="739" HPOS="343"/>
+							<String ID="string_136" HPOS="358" VPOS="739" WIDTH="127" HEIGHT="21" WC="0.93" CONTENT="semmoisia"/><SP WIDTH="15" VPOS="739" HPOS="485"/>
+							<String ID="string_137" HPOS="500" VPOS="739" WIDTH="181" HEIGHT="29" WC="0.92" CONTENT="kansanopistoja"/><SP WIDTH="15" VPOS="739" HPOS="681"/>
+							<String ID="string_138" HPOS="696" VPOS="739" WIDTH="180" HEIGHT="27" WC="0.91" CONTENT="kannatettavan,"/><SP WIDTH="14" VPOS="739" HPOS="876"/>
+							<String ID="string_139" HPOS="890" VPOS="739" WIDTH="65" HEIGHT="27" WC="0.93" CONTENT="jotka"/><SP WIDTH="15" VPOS="739" HPOS="955"/>
+							<String ID="string_140" HPOS="970" VPOS="740" WIDTH="28" HEIGHT="22" WC="0.93" CONTENT="ei-"/>
+						</TextLine>
+						<TextLine ID="line_18" HPOS="180" VPOS="768" WIDTH="819" HEIGHT="29">
+							<String ID="string_141" HPOS="180" VPOS="770" WIDTH="39" HEIGHT="20" WC="0.79" CONTENT="vät"/><SP WIDTH="21" VPOS="770" HPOS="219"/>
+							<String ID="string_142" HPOS="240" VPOS="768" WIDTH="35" HEIGHT="22" WC="0.96" CONTENT="ole"/><SP WIDTH="24" VPOS="768" HPOS="275"/>
+							<String ID="string_143" HPOS="299" VPOS="768" WIDTH="141" HEIGHT="22" WC="0.96" CONTENT="kristilliseen"/><SP WIDTH="23" VPOS="768" HPOS="440"/>
+							<String ID="string_144" HPOS="463" VPOS="770" WIDTH="110" HEIGHT="20" WC="0.95" CONTENT="suuntaan"/><SP WIDTH="23" VPOS="770" HPOS="573"/>
+							<String ID="string_145" HPOS="596" VPOS="768" WIDTH="91" HEIGHT="22" WC="0.95" CONTENT="tehneet"/><SP WIDTH="21" VPOS="768" HPOS="687"/>
+							<String ID="string_146" HPOS="708" VPOS="769" WIDTH="70" HEIGHT="28" WC="0.96" CONTENT="työtä,"/><SP WIDTH="16" VPOS="769" HPOS="778"/>
+							<String ID="string_147" HPOS="794" VPOS="769" WIDTH="82" HEIGHT="22" WC="0.96" CONTENT="vaikka"/><SP WIDTH="14" VPOS="769" HPOS="876"/>
+							<String ID="string_148" HPOS="890" VPOS="770" WIDTH="39" HEIGHT="21" WC="0.96" CONTENT="tuo"/><SP WIDTH="16" VPOS="770" HPOS="929"/>
+							<String ID="string_149" HPOS="945" VPOS="775" WIDTH="54" HEIGHT="16" WC="0.96" CONTENT="sana"/>
+						</TextLine>
+						<TextLine ID="line_19" HPOS="184" VPOS="798" WIDTH="815" HEIGHT="29">
+							<String ID="string_150" HPOS="184" VPOS="798" WIDTH="157" HEIGHT="28" WC="0.67" CONTENT="ykristillinen*"/><SP WIDTH="18" VPOS="798" HPOS="341"/>
+							<String ID="string_151" HPOS="359" VPOS="798" WIDTH="21" HEIGHT="22" WC="0.96" CONTENT="ei"/><SP WIDTH="15" VPOS="798" HPOS="380"/>
+							<String ID="string_152" HPOS="395" VPOS="798" WIDTH="108" HEIGHT="22" WC="0.96" CONTENT="olisikaan"/><SP WIDTH="11" VPOS="798" HPOS="503"/>
+							<String ID="string_153" HPOS="514" VPOS="798" WIDTH="164" HEIGHT="29" WC="0.95" CONTENT="pappissäädyn"/><SP WIDTH="10" VPOS="798" HPOS="678"/>
+							<String ID="string_154" HPOS="688" VPOS="799" WIDTH="146" HEIGHT="27" WC="0.96" CONTENT="päätöksessä"/><SP WIDTH="10" VPOS="799" HPOS="834"/>
+							<String ID="string_155" HPOS="844" VPOS="799" WIDTH="155" HEIGHT="22" WC="0.96" CONTENT="nimenomaan"/>
+						</TextLine>
+						<TextLine ID="line_20" HPOS="181" VPOS="827" WIDTH="816" HEIGHT="29">
+							<String ID="string_156" HPOS="181" VPOS="827" WIDTH="106" HEIGHT="23" WC="0.96" CONTENT="mainittu."/><SP WIDTH="23" VPOS="827" HPOS="287"/>
+							<String ID="string_157" HPOS="310" VPOS="828" WIDTH="96" HEIGHT="22" WC="0.96" CONTENT="Minusta"/><SP WIDTH="15" VPOS="828" HPOS="406"/>
+							<String ID="string_158" HPOS="421" VPOS="834" WIDTH="29" HEIGHT="16" WC="0.96" CONTENT="on"/><SP WIDTH="15" VPOS="834" HPOS="450"/>
+							<String ID="string_159" HPOS="465" VPOS="834" WIDTH="25" HEIGHT="16" WC="0.96" CONTENT="se"/><SP WIDTH="13" VPOS="834" HPOS="490"/>
+							<String ID="string_160" HPOS="503" VPOS="828" WIDTH="133" HEIGHT="28" WC="0.96" CONTENT="jokseenkin"/><SP WIDTH="8" VPOS="828" HPOS="636"/>
+							<String ID="string_161" HPOS="644" VPOS="830" WIDTH="77" HEIGHT="20" WC="0.93" CONTENT="suurta"/><SP WIDTH="11" VPOS="830" HPOS="721"/>
+							<String ID="string_162" HPOS="732" VPOS="828" WIDTH="125" HEIGHT="26" WC="0.79" CONTENT=",kristillis*"/><SP WIDTH="11" VPOS="828" HPOS="857"/>
+							<String ID="string_163" HPOS="868" VPOS="834" WIDTH="70" HEIGHT="17" WC="0.93" CONTENT="sanan"/><SP WIDTH="7" VPOS="834" HPOS="938"/>
+							<String ID="string_164" HPOS="945" VPOS="829" WIDTH="52" HEIGHT="21" WC="0.93" CONTENT="vää-"/>
+						</TextLine>
+						<TextLine ID="line_21" HPOS="180" VPOS="857" WIDTH="817" HEIGHT="29">
+							<String ID="string_165" HPOS="180" VPOS="858" WIDTH="34" HEIGHT="22" WC="0.96" CONTENT="rin"/><SP WIDTH="15" VPOS="858" HPOS="214"/>
+							<String ID="string_166" HPOS="229" VPOS="857" WIDTH="152" HEIGHT="28" WC="0.96" CONTENT="käyttämistä,"/><SP WIDTH="16" VPOS="857" HPOS="381"/>
+							<String ID="string_167" HPOS="397" VPOS="858" WIDTH="47" HEIGHT="22" WC="0.96" CONTENT="kun"/><SP WIDTH="15" VPOS="858" HPOS="444"/>
+							<String ID="string_168" HPOS="459" VPOS="864" WIDTH="25" HEIGHT="16" WC="0.96" CONTENT="se"/><SP WIDTH="15" VPOS="864" HPOS="484"/>
+							<String ID="string_169" HPOS="499" VPOS="858" WIDTH="110" HEIGHT="28" WC="0.96" CONTENT="pistetään"/><SP WIDTH="8" VPOS="858" HPOS="609"/>
+							<String ID="string_170" HPOS="617" VPOS="858" WIDTH="55" HEIGHT="28" WC="0.96" CONTENT="joka"/><SP WIDTH="10" VPOS="858" HPOS="672"/>
+							<String ID="string_171" HPOS="682" VPOS="858" WIDTH="117" HEIGHT="28" WC="0.96" CONTENT="paikkaan,"/><SP WIDTH="11" VPOS="858" HPOS="799"/>
+							<String ID="string_172" HPOS="810" VPOS="858" WIDTH="120" HEIGHT="22" WC="0.96" CONTENT="ikäänkuin"/><SP WIDTH="11" VPOS="858" HPOS="930"/>
+							<String ID="string_173" HPOS="941" VPOS="858" WIDTH="56" HEIGHT="22" WC="0.97" CONTENT="voisi"/>
+						</TextLine>
+						<TextLine ID="line_22" HPOS="180" VPOS="888" WIDTH="819" HEIGHT="28">
+							<String ID="string_174" HPOS="180" VPOS="888" WIDTH="56" HEIGHT="22" WC="0.92" CONTENT="tulla"/><SP WIDTH="25" VPOS="888" HPOS="236"/>
+							<String ID="string_175" HPOS="261" VPOS="888" WIDTH="167" HEIGHT="28" WC="0.96" CONTENT="kysymykseen"/><SP WIDTH="26" VPOS="888" HPOS="428"/>
+							<String ID="string_176" HPOS="454" VPOS="890" WIDTH="46" HEIGHT="20" WC="0.96" CONTENT="että"/><SP WIDTH="25" VPOS="890" HPOS="500"/>
+							<String ID="string_177" HPOS="525" VPOS="888" WIDTH="61" HEIGHT="22" WC="0.93" CONTENT="tässä"/><SP WIDTH="22" VPOS="888" HPOS="586"/>
+							<String ID="string_178" HPOS="608" VPOS="888" WIDTH="107" HEIGHT="28" WC="0.92" CONTENT="säädyssä"/><SP WIDTH="23" VPOS="888" HPOS="715"/>
+							<String ID="string_179" HPOS="738" VPOS="888" WIDTH="152" HEIGHT="22" WC="0.92" CONTENT="tahdottaisiin"/><SP WIDTH="22" VPOS="888" HPOS="890"/>
+							<String ID="string_180" HPOS="912" VPOS="888" WIDTH="87" HEIGHT="28" WC="0.96" CONTENT="jotakin"/>
+						</TextLine>
+						<TextLine ID="line_23" HPOS="181" VPOS="918" WIDTH="818" HEIGHT="28">
+							<String ID="string_181" HPOS="181" VPOS="919" WIDTH="78" HEIGHT="21" WC="0.86" CONTENT="muuta"/><SP WIDTH="15" VPOS="919" HPOS="259"/>
+							<String ID="string_182" HPOS="274" VPOS="918" WIDTH="53" HEIGHT="22" WC="0.96" CONTENT="kuin"/><SP WIDTH="15" VPOS="918" HPOS="327"/>
+							<String ID="string_183" HPOS="342" VPOS="918" WIDTH="129" HEIGHT="22" WC="0.89" CONTENT="kristillistä."/><SP WIDTH="32" VPOS="918" HPOS="471"/>
+							<String ID="string_184" HPOS="503" VPOS="918" WIDTH="128" HEIGHT="22" WC="0.89" CONTENT="Sentähden"/><SP WIDTH="17" VPOS="918" HPOS="631"/>
+							<String ID="string_185" HPOS="648" VPOS="918" WIDTH="58" HEIGHT="22" WC="0.96" CONTENT="minä"/><SP WIDTH="16" VPOS="918" HPOS="706"/>
+							<String ID="string_186" HPOS="722" VPOS="918" WIDTH="126" HEIGHT="28" WC="0.96" CONTENT="puolestani"/><SP WIDTH="10" VPOS="918" HPOS="848"/>
+							<String ID="string_187" HPOS="858" VPOS="919" WIDTH="76" HEIGHT="21" WC="0.97" CONTENT="toivon"/><SP WIDTH="11" VPOS="919" HPOS="934"/>
+							<String ID="string_188" HPOS="945" VPOS="918" WIDTH="54" HEIGHT="22" WC="0.96" CONTENT="ettei"/>
+						</TextLine>
+						<TextLine ID="line_24" HPOS="192" VPOS="948" WIDTH="807" HEIGHT="28">
+							<String ID="string_189" HPOS="192" VPOS="948" WIDTH="53" HEIGHT="27" WC="0.79" CONTENT="jääty"/><SP WIDTH="23" VPOS="948" HPOS="245"/>
+							<String ID="string_190" HPOS="268" VPOS="948" WIDTH="75" HEIGHT="21" WC="0.96" CONTENT="tämän"/><SP WIDTH="23" VPOS="948" HPOS="343"/>
+							<String ID="string_191" HPOS="366" VPOS="948" WIDTH="75" HEIGHT="27" WC="0.96" CONTENT="yhden"/><SP WIDTH="23" VPOS="948" HPOS="441"/>
+							<String ID="string_192" HPOS="464" VPOS="954" WIDTH="70" HEIGHT="15" WC="0.96" CONTENT="sanan"/><SP WIDTH="21" VPOS="954" HPOS="534"/>
+							<String ID="string_193" HPOS="555" VPOS="948" WIDTH="83" HEIGHT="22" WC="0.97" CONTENT="tähden"/><SP WIDTH="25" VPOS="948" HPOS="638"/>
+							<String ID="string_194" HPOS="663" VPOS="954" WIDTH="56" HEIGHT="22" WC="0.96" CONTENT="pane"/><SP WIDTH="24" VPOS="954" HPOS="719"/>
+							<String ID="string_195" HPOS="743" VPOS="948" WIDTH="97" HEIGHT="22" WC="0.96" CONTENT="kumoon"/><SP WIDTH="22" VPOS="948" HPOS="840"/>
+							<String ID="string_196" HPOS="862" VPOS="949" WIDTH="47" HEIGHT="21" WC="0.96" CONTENT="tätä"/><SP WIDTH="16" VPOS="949" HPOS="909"/>
+							<String ID="string_197" HPOS="925" VPOS="948" WIDTH="74" HEIGHT="22" WC="0.96" CONTENT="varsin"/>
+						</TextLine>
+						<TextLine ID="line_25" HPOS="181" VPOS="977" WIDTH="182" HEIGHT="22">
+							<String ID="string_198" HPOS="181" VPOS="977" WIDTH="101" HEIGHT="22" WC="0.95" CONTENT="tärkeätä"/><SP WIDTH="15" VPOS="977" HPOS="282"/>
+							<String ID="string_199" HPOS="297" VPOS="977" WIDTH="66" HEIGHT="22" WC="0.96" CONTENT="asiaa."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_4" HPOS="251" VPOS="1006" WIDTH="747" HEIGHT="28">
+						<TextLine ID="line_26" HPOS="251" VPOS="1006" WIDTH="747" HEIGHT="28">
+							<String ID="string_200" HPOS="251" VPOS="1006" WIDTH="152" HEIGHT="23" WC="0.96" CONTENT="Kirkkoherra"/><SP WIDTH="17" VPOS="1006" HPOS="403"/>
+							<String ID="string_201" HPOS="420" VPOS="1007" WIDTH="113" HEIGHT="27" WC="0.96" CONTENT="Blomberg:"/><SP WIDTH="32" VPOS="1007" HPOS="533"/>
+							<String ID="string_202" HPOS="565" VPOS="1007" WIDTH="75" HEIGHT="22" WC="0.96" CONTENT="Koska"/><SP WIDTH="16" VPOS="1007" HPOS="640"/>
+							<String ID="string_203" HPOS="656" VPOS="1007" WIDTH="47" HEIGHT="22" WC="0.96" CONTENT="asia"/><SP WIDTH="15" VPOS="1007" HPOS="703"/>
+							<String ID="string_204" HPOS="718" VPOS="1007" WIDTH="116" HEIGHT="22" WC="0.96" CONTENT="kuitenkin"/><SP WIDTH="16" VPOS="1007" HPOS="834"/>
+							<String ID="string_205" HPOS="850" VPOS="1014" WIDTH="28" HEIGHT="15" WC="0.96" CONTENT="on"/><SP WIDTH="15" VPOS="1014" HPOS="878"/>
+							<String ID="string_206" HPOS="893" VPOS="1008" WIDTH="45" HEIGHT="21" WC="0.93" CONTENT="niin"/><SP WIDTH="17" VPOS="1008" HPOS="938"/>
+							<String ID="string_207" HPOS="955" VPOS="1008" WIDTH="43" HEIGHT="21" WC="0.93" CONTENT="tär-"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_5" HPOS="181" VPOS="1036" WIDTH="818" HEIGHT="57">
+						<TextLine ID="line_27" HPOS="196" VPOS="1036" WIDTH="803" HEIGHT="29">
+							<String ID="string_208" HPOS="196" VPOS="1037" WIDTH="27" HEIGHT="21" WC="0.90" CONTENT="eä"/><SP WIDTH="15" VPOS="1037" HPOS="223"/>
+							<String ID="string_209" HPOS="238" VPOS="1037" WIDTH="47" HEIGHT="21" WC="0.96" CONTENT="että"/><SP WIDTH="15" VPOS="1037" HPOS="285"/>
+							<String ID="string_210" HPOS="300" VPOS="1042" WIDTH="24" HEIGHT="16" WC="0.97" CONTENT="se"/><SP WIDTH="16" VPOS="1042" HPOS="324"/>
+							<String ID="string_211" HPOS="340" VPOS="1036" WIDTH="67" HEIGHT="22" WC="0.96" CONTENT="vaatii"/><SP WIDTH="16" VPOS="1036" HPOS="407"/>
+							<String ID="string_212" HPOS="423" VPOS="1037" WIDTH="111" HEIGHT="28" WC="0.93" CONTENT="pitempää"/><SP WIDTH="16" VPOS="1037" HPOS="534"/>
+							<String ID="string_213" HPOS="550" VPOS="1037" WIDTH="185" HEIGHT="26" WC="0.92" CONTENT="miettimisaikaa,"/><SP WIDTH="17" VPOS="1037" HPOS="735"/>
+							<String ID="string_214" HPOS="752" VPOS="1038" WIDTH="45" HEIGHT="21" WC="0.96" CONTENT="niin"/><SP WIDTH="18" VPOS="1038" HPOS="797"/>
+							<String ID="string_215" HPOS="815" VPOS="1038" WIDTH="91" HEIGHT="27" WC="0.96" CONTENT="pyydän"/><SP WIDTH="11" VPOS="1038" HPOS="906"/>
+							<String ID="string_216" HPOS="917" VPOS="1038" WIDTH="47" HEIGHT="21" WC="0.96" CONTENT="että"/><SP WIDTH="11" VPOS="1038" HPOS="964"/>
+							<String ID="string_217" HPOS="975" VPOS="1043" WIDTH="24" HEIGHT="15" WC="0.96" CONTENT="se"/>
+						</TextLine>
+						<TextLine ID="line_28" HPOS="181" VPOS="1066" WIDTH="243" HEIGHT="27">
+							<String ID="string_218" HPOS="181" VPOS="1066" WIDTH="118" HEIGHT="27" WC="0.96" CONTENT="pantaisiin"/><SP WIDTH="15" VPOS="1066" HPOS="299"/>
+							<String ID="string_219" HPOS="314" VPOS="1066" WIDTH="110" HEIGHT="27" WC="0.96" CONTENT="pöydälle."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_6" HPOS="180" VPOS="1095" WIDTH="820" HEIGHT="230">
+						<TextLine ID="line_29" HPOS="252" VPOS="1095" WIDTH="747" HEIGHT="29">
+							<String ID="string_220" HPOS="252" VPOS="1095" WIDTH="150" HEIGHT="22" WC="0.96" CONTENT="Kirkkoherra"/><SP WIDTH="24" VPOS="1095" HPOS="402"/>
+							<String ID="string_221" HPOS="426" VPOS="1095" WIDTH="107" HEIGHT="27" WC="0.96" CONTENT="Wegelius:"/><SP WIDTH="31" VPOS="1095" HPOS="533"/>
+							<String ID="string_222" HPOS="564" VPOS="1095" WIDTH="76" HEIGHT="22" WC="0.95" CONTENT="Koska"/><SP WIDTH="19" VPOS="1095" HPOS="640"/>
+							<String ID="string_223" HPOS="659" VPOS="1096" WIDTH="64" HEIGHT="27" WC="0.95" CONTENT="sääty"/><SP WIDTH="19" VPOS="1096" HPOS="723"/>
+							<String ID="string_224" HPOS="742" VPOS="1096" WIDTH="81" HEIGHT="22" WC="0.96" CONTENT="kerran"/><SP WIDTH="16" VPOS="1096" HPOS="823"/>
+							<String ID="string_225" HPOS="839" VPOS="1102" WIDTH="28" HEIGHT="15" WC="0.96" CONTENT="on"/><SP WIDTH="15" VPOS="1102" HPOS="867"/>
+							<String ID="string_226" HPOS="882" VPOS="1097" WIDTH="117" HEIGHT="27" WC="0.96" CONTENT="päättänyt"/>
+						</TextLine>
+						<TextLine ID="line_30" HPOS="181" VPOS="1125" WIDTH="818" HEIGHT="28">
+							<String ID="string_227" HPOS="181" VPOS="1125" WIDTH="67" HEIGHT="22" WC="0.96" CONTENT="tehdä"/><SP WIDTH="23" VPOS="1125" HPOS="248"/>
+							<String ID="string_228" HPOS="271" VPOS="1125" WIDTH="132" HEIGHT="22" WC="0.96" CONTENT="tämmöisen"/><SP WIDTH="23" VPOS="1125" HPOS="403"/>
+							<String ID="string_229" HPOS="426" VPOS="1125" WIDTH="120" HEIGHT="28" WC="0.96" CONTENT="lisäyksen,"/><SP WIDTH="24" VPOS="1125" HPOS="546"/>
+							<String ID="string_230" HPOS="570" VPOS="1125" WIDTH="44" HEIGHT="22" WC="0.96" CONTENT="niin"/><SP WIDTH="25" VPOS="1125" HPOS="614"/>
+							<String ID="string_231" HPOS="639" VPOS="1126" WIDTH="75" HEIGHT="21" WC="0.96" CONTENT="minun"/><SP WIDTH="24" VPOS="1126" HPOS="714"/>
+							<String ID="string_232" HPOS="738" VPOS="1126" WIDTH="130" HEIGHT="27" WC="0.94" CONTENT="mielestäni,"/><SP WIDTH="15" VPOS="1126" HPOS="868"/>
+							<String ID="string_233" HPOS="883" VPOS="1127" WIDTH="36" HEIGHT="26" WC="0.96" CONTENT="jos"/><SP WIDTH="16" VPOS="1127" HPOS="919"/>
+							<String ID="string_234" HPOS="935" VPOS="1126" WIDTH="64" HEIGHT="27" WC="0.96" CONTENT="sääty"/>
+						</TextLine>
+						<TextLine ID="line_31" HPOS="180" VPOS="1155" WIDTH="819" HEIGHT="29">
+							<String ID="string_235" HPOS="180" VPOS="1156" WIDTH="41" HEIGHT="26" WC="0.96" CONTENT="nyt"/><SP WIDTH="22" VPOS="1156" HPOS="221"/>
+							<String ID="string_236" HPOS="243" VPOS="1155" WIDTH="83" HEIGHT="28" WC="0.96" CONTENT="luopuu"/><SP WIDTH="23" VPOS="1155" HPOS="326"/>
+							<String ID="string_237" HPOS="349" VPOS="1155" WIDTH="51" HEIGHT="22" WC="0.96" CONTENT="siitä"/><SP WIDTH="22" VPOS="1155" HPOS="400"/>
+							<String ID="string_238" HPOS="422" VPOS="1155" WIDTH="25" HEIGHT="28" WC="0.96" CONTENT="ja"/><SP WIDTH="23" VPOS="1155" HPOS="447"/>
+							<String ID="string_239" HPOS="470" VPOS="1157" WIDTH="92" HEIGHT="20" WC="0.96" CONTENT="suostuu"/><SP WIDTH="22" VPOS="1157" HPOS="562"/>
+							<String ID="string_240" HPOS="584" VPOS="1155" WIDTH="124" HEIGHT="28" WC="0.96" CONTENT="jättämään"/><SP WIDTH="16" VPOS="1155" HPOS="708"/>
+							<String ID="string_241" HPOS="724" VPOS="1156" WIDTH="75" HEIGHT="21" WC="0.96" CONTENT="tämän"/><SP WIDTH="15" VPOS="1156" HPOS="799"/>
+							<String ID="string_242" HPOS="814" VPOS="1156" WIDTH="113" HEIGHT="27" WC="0.96" CONTENT="lisäyksen"/><SP WIDTH="16" VPOS="1156" HPOS="927"/>
+							<String ID="string_243" HPOS="943" VPOS="1155" WIDTH="56" HEIGHT="29" WC="0.96" CONTENT="pois,"/>
+						</TextLine>
+						<TextLine ID="line_32" HPOS="192" VPOS="1184" WIDTH="808" HEIGHT="29">
+							<String ID="string_244" HPOS="192" VPOS="1185" WIDTH="53" HEIGHT="27" WC="0.54" CONTENT="jääty"/><SP WIDTH="35" VPOS="1185" HPOS="245"/>
+							<String ID="string_245" HPOS="280" VPOS="1184" WIDTH="49" HEIGHT="23" WC="0.89" CONTENT="sillä"/><SP WIDTH="31" VPOS="1184" HPOS="329"/>
+							<String ID="string_246" HPOS="360" VPOS="1185" WIDTH="118" HEIGHT="28" WC="0.93" CONTENT="myöntäisi"/><SP WIDTH="29" VPOS="1185" HPOS="478"/>
+							<String ID="string_247" HPOS="507" VPOS="1186" WIDTH="127" HEIGHT="21" WC="0.92" CONTENT="valtioavun"/><SP WIDTH="33" VPOS="1186" HPOS="634"/>
+							<String ID="string_248" HPOS="667" VPOS="1185" WIDTH="119" HEIGHT="22" WC="0.91" CONTENT="antamista"/><SP WIDTH="32" VPOS="1185" HPOS="786"/>
+							<String ID="string_249" HPOS="818" VPOS="1185" WIDTH="182" HEIGHT="22" WC="0.80" CONTENT="semmoisillekin"/>
+						</TextLine>
+						<TextLine ID="line_33" HPOS="197" VPOS="1214" WIDTH="799" HEIGHT="29">
+							<String ID="string_250" HPOS="197" VPOS="1214" WIDTH="186" HEIGHT="29" WC="0.92" CONTENT="ansanopistoille,"/><SP WIDTH="36" VPOS="1214" HPOS="383"/>
+							<String ID="string_251" HPOS="419" VPOS="1215" WIDTH="64" HEIGHT="28" WC="0.92" CONTENT="jotka"/><SP WIDTH="33" VPOS="1215" HPOS="483"/>
+							<String ID="string_252" HPOS="516" VPOS="1215" WIDTH="59" HEIGHT="22" WC="0.94" CONTENT="eivät"/><SP WIDTH="38" VPOS="1215" HPOS="575"/>
+							<String ID="string_253" HPOS="613" VPOS="1215" WIDTH="62" HEIGHT="22" WC="0.94" CONTENT="toimi"/><SP WIDTH="31" VPOS="1215" HPOS="675"/>
+							<String ID="string_254" HPOS="706" VPOS="1215" WIDTH="141" HEIGHT="22" WC="0.94" CONTENT="kristilliseen"/><SP WIDTH="33" VPOS="1215" HPOS="847"/>
+							<String ID="string_255" HPOS="880" VPOS="1217" WIDTH="116" HEIGHT="21" WC="0.95" CONTENT="suuntaan."/>
+						</TextLine>
+						<TextLine ID="line_34" HPOS="197" VPOS="1244" WIDTH="803" HEIGHT="29">
+							<String ID="string_256" HPOS="197" VPOS="1244" WIDTH="59" HEIGHT="22" WC="0.6" CONTENT="siihen"/><SP WIDTH="23" VPOS="1244" HPOS="256"/>
+							<String ID="string_257" HPOS="279" VPOS="1245" WIDTH="93" HEIGHT="22" WC="0.96" CONTENT="katsoen"/><SP WIDTH="23" VPOS="1245" HPOS="372"/>
+							<String ID="string_258" HPOS="395" VPOS="1245" WIDTH="60" HEIGHT="21" WC="0.96" CONTENT="minä"/><SP WIDTH="22" VPOS="1245" HPOS="455"/>
+							<String ID="string_259" HPOS="477" VPOS="1245" WIDTH="91" HEIGHT="28" WC="0.96" CONTENT="pyydän"/><SP WIDTH="23" VPOS="1245" HPOS="568"/>
+							<String ID="string_260" HPOS="591" VPOS="1245" WIDTH="68" HEIGHT="22" WC="0.96" CONTENT="saada"/><SP WIDTH="16" VPOS="1245" HPOS="659"/>
+							<String ID="string_261" HPOS="675" VPOS="1245" WIDTH="121" HEIGHT="22" WC="0.92" CONTENT="kannattaa"/><SP WIDTH="20" VPOS="1245" HPOS="796"/>
+							<String ID="string_262" HPOS="816" VPOS="1245" WIDTH="184" HEIGHT="28" WC="0.91" CONTENT="tuomioprovasti"/>
+						</TextLine>
+						<TextLine ID="line_35" HPOS="198" VPOS="1274" WIDTH="801" HEIGHT="29">
+							<String ID="string_263" HPOS="198" VPOS="1274" WIDTH="184" HEIGHT="28" WC="0.71" CONTENT="chwartzberg&#39;in"/><SP WIDTH="23" VPOS="1274" HPOS="382"/>
+							<String ID="string_264" HPOS="405" VPOS="1275" WIDTH="126" HEIGHT="27" WC="0.96" CONTENT="ehdotusta,"/><SP WIDTH="24" VPOS="1275" HPOS="531"/>
+							<String ID="string_265" HPOS="555" VPOS="1275" WIDTH="46" HEIGHT="22" WC="0.96" CONTENT="että"/><SP WIDTH="15" VPOS="1275" HPOS="601"/>
+							<String ID="string_266" HPOS="616" VPOS="1275" WIDTH="64" HEIGHT="27" WC="0.96" CONTENT="sääty"/><SP WIDTH="16" VPOS="1275" HPOS="680"/>
+							<String ID="string_267" HPOS="696" VPOS="1281" WIDTH="73" HEIGHT="22" WC="0.96" CONTENT="pysyy"/><SP WIDTH="16" VPOS="1281" HPOS="769"/>
+							<String ID="string_268" HPOS="785" VPOS="1276" WIDTH="109" HEIGHT="21" WC="0.93" CONTENT="entisessä"/><SP WIDTH="14" VPOS="1276" HPOS="894"/>
+							<String ID="string_269" HPOS="908" VPOS="1275" WIDTH="91" HEIGHT="28" WC="0.91" CONTENT="päätök-"/>
+						</TextLine>
+						<TextLine ID="line_36" HPOS="193" VPOS="1309" WIDTH="86" HEIGHT="16">
+							<String ID="string_270" HPOS="193" VPOS="1309" WIDTH="86" HEIGHT="16" WC="0.87" CONTENT="essään."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_7" HPOS="196" VPOS="1332" WIDTH="804" HEIGHT="58">
+						<TextLine ID="line_37" HPOS="251" VPOS="1332" WIDTH="749" HEIGHT="29">
+							<String ID="string_271" HPOS="251" VPOS="1333" WIDTH="152" HEIGHT="21" WC="0.96" CONTENT="Kirkkoherra"/><SP WIDTH="25" VPOS="1333" HPOS="403"/>
+							<String ID="string_272" HPOS="428" VPOS="1333" WIDTH="120" HEIGHT="20" WC="0.96" CONTENT="Päivärinta:"/><SP WIDTH="39" VPOS="1333" HPOS="548"/>
+							<String ID="string_273" HPOS="587" VPOS="1332" WIDTH="59" HEIGHT="22" WC="0.95" CONTENT="Minä"/><SP WIDTH="26" VPOS="1332" HPOS="646"/>
+							<String ID="string_274" HPOS="672" VPOS="1333" WIDTH="91" HEIGHT="28" WC="0.95" CONTENT="pyydän"/><SP WIDTH="25" VPOS="1333" HPOS="763"/>
+							<String ID="string_275" HPOS="788" VPOS="1334" WIDTH="69" HEIGHT="21" WC="0.95" CONTENT="saada"/><SP WIDTH="22" VPOS="1334" HPOS="857"/>
+							<String ID="string_276" HPOS="879" VPOS="1333" WIDTH="121" HEIGHT="22" WC="0.96" CONTENT="kannattaa"/>
+						</TextLine>
+						<TextLine ID="line_38" HPOS="196" VPOS="1361" WIDTH="803" HEIGHT="29">
+							<String ID="string_277" HPOS="196" VPOS="1361" WIDTH="129" HEIGHT="22" WC="0.88" CONTENT="irkkoherra"/><SP WIDTH="15" VPOS="1361" HPOS="325"/>
+							<String ID="string_278" HPOS="340" VPOS="1361" WIDTH="153" HEIGHT="28" WC="0.92" CONTENT="Blomberg&#39;in"/><SP WIDTH="15" VPOS="1361" HPOS="493"/>
+							<String ID="string_279" HPOS="508" VPOS="1362" WIDTH="118" HEIGHT="21" WC="0.96" CONTENT="ehdotusta"/><SP WIDTH="16" VPOS="1362" HPOS="626"/>
+							<String ID="string_280" HPOS="642" VPOS="1363" WIDTH="48" HEIGHT="20" WC="0.96" CONTENT="että"/><SP WIDTH="13" VPOS="1363" HPOS="690"/>
+							<String ID="string_281" HPOS="703" VPOS="1363" WIDTH="48" HEIGHT="21" WC="0.97" CONTENT="asia"/><SP WIDTH="11" VPOS="1363" HPOS="751"/>
+							<String ID="string_282" HPOS="762" VPOS="1363" WIDTH="118" HEIGHT="26" WC="0.96" CONTENT="pantaisiin"/><SP WIDTH="8" VPOS="1363" HPOS="880"/>
+							<String ID="string_283" HPOS="888" VPOS="1362" WIDTH="111" HEIGHT="28" WC="0.96" CONTENT="pöydälle."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_8" HPOS="180" VPOS="1391" WIDTH="820" HEIGHT="81">
+						<TextLine ID="line_39" HPOS="252" VPOS="1391" WIDTH="748" HEIGHT="28">
+							<String ID="string_284" HPOS="252" VPOS="1391" WIDTH="203" HEIGHT="28" WC="0.94" CONTENT="Tuomiokapitulin"/><SP WIDTH="23" VPOS="1391" HPOS="455"/>
+							<String ID="string_285" HPOS="478" VPOS="1391" WIDTH="95" HEIGHT="22" WC="0.94" CONTENT="asessori"/><SP WIDTH="19" VPOS="1391" HPOS="573"/>
+							<String ID="string_286" HPOS="592" VPOS="1391" WIDTH="58" HEIGHT="28" WC="0.96" CONTENT="Lyra:"/><SP WIDTH="32" VPOS="1391" HPOS="650"/>
+							<String ID="string_287" HPOS="682" VPOS="1391" WIDTH="59" HEIGHT="23" WC="0.96" CONTENT="Minä"/><SP WIDTH="18" VPOS="1391" HPOS="741"/>
+							<String ID="string_288" HPOS="759" VPOS="1398" WIDTH="58" HEIGHT="16" WC="0.96" CONTENT="vaan"/><SP WIDTH="15" VPOS="1398" HPOS="817"/>
+							<String ID="string_289" HPOS="832" VPOS="1392" WIDTH="84" HEIGHT="22" WC="0.96" CONTENT="tahdon"/><SP WIDTH="16" VPOS="1392" HPOS="916"/>
+							<String ID="string_290" HPOS="932" VPOS="1399" WIDTH="68" HEIGHT="16" WC="0.96" CONTENT="sanoa"/>
+						</TextLine>
+						<TextLine ID="line_40" HPOS="180" VPOS="1421" WIDTH="819" HEIGHT="51">
+							<String ID="string_291" HPOS="180" VPOS="1421" WIDTH="48" HEIGHT="51" WC="0.19" CONTENT="a"/><SP WIDTH="18" VPOS="1421" HPOS="228"/>
+							<String ID="string_292" HPOS="246" VPOS="1421" WIDTH="98" HEIGHT="28" WC="0.92" CONTENT="tokkopa"/><SP WIDTH="15" VPOS="1421" HPOS="344"/>
+							<String ID="string_293" HPOS="359" VPOS="1422" WIDTH="65" HEIGHT="27" WC="0.92" CONTENT="sääty"/><SP WIDTH="15" VPOS="1422" HPOS="424"/>
+							<String ID="string_294" HPOS="439" VPOS="1421" WIDTH="121" HEIGHT="22" WC="0.91" CONTENT="todellakin"/><SP WIDTH="16" VPOS="1421" HPOS="560"/>
+							<String ID="string_295" HPOS="576" VPOS="1422" WIDTH="104" HEIGHT="21" WC="0.91" CONTENT="tahtonee"/><SP WIDTH="17" VPOS="1422" HPOS="680"/>
+							<String ID="string_296" HPOS="697" VPOS="1422" WIDTH="57" HEIGHT="22" WC="0.92" CONTENT="koko"/><SP WIDTH="16" VPOS="1422" HPOS="754"/>
+							<String ID="string_297" HPOS="770" VPOS="1422" WIDTH="62" HEIGHT="22" WC="0.93" CONTENT="asian"/><SP WIDTH="16" VPOS="1422" HPOS="832"/>
+							<String ID="string_298" HPOS="848" VPOS="1428" WIDTH="83" HEIGHT="16" WC="0.91" CONTENT="vaaran"/><SP WIDTH="16" VPOS="1428" HPOS="931"/>
+							<String ID="string_299" HPOS="947" VPOS="1422" WIDTH="52" HEIGHT="22" WC="0.91" CONTENT="alai-"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_9" HPOS="181" VPOS="1450" WIDTH="820" HEIGHT="112">
+						<TextLine ID="line_41" HPOS="193" VPOS="1450" WIDTH="808" HEIGHT="30">
+							<String ID="string_300" HPOS="193" VPOS="1450" WIDTH="47" HEIGHT="22" WC="0.92" CONTENT="eksi"/><SP WIDTH="24" VPOS="1450" HPOS="240"/>
+							<String ID="string_301" HPOS="264" VPOS="1452" WIDTH="87" HEIGHT="21" WC="0.91" CONTENT="saattaa"/><SP WIDTH="23" VPOS="1452" HPOS="351"/>
+							<String ID="string_302" HPOS="374" VPOS="1452" WIDTH="54" HEIGHT="21" WC="0.92" CONTENT="tuon"/><SP WIDTH="23" VPOS="1452" HPOS="428"/>
+							<String ID="string_303" HPOS="451" VPOS="1451" WIDTH="75" HEIGHT="28" WC="0.91" CONTENT="yhden"/><SP WIDTH="23" VPOS="1451" HPOS="526"/>
+							<String ID="string_304" HPOS="549" VPOS="1451" WIDTH="108" HEIGHT="22" WC="0.91" CONTENT="itsessään"/><SP WIDTH="16" VPOS="1451" HPOS="657"/>
+							<String ID="string_305" HPOS="673" VPOS="1452" WIDTH="61" HEIGHT="28" WC="0.92" CONTENT="kyllä"/><SP WIDTH="15" VPOS="1452" HPOS="734"/>
+							<String ID="string_306" HPOS="749" VPOS="1452" WIDTH="101" HEIGHT="27" WC="0.91" CONTENT="tärkeän,"/><SP WIDTH="16" VPOS="1452" HPOS="850"/>
+							<String ID="string_307" HPOS="866" VPOS="1458" WIDTH="58" HEIGHT="16" WC="0.96" CONTENT="vaan"/><SP WIDTH="15" VPOS="1458" HPOS="924"/>
+							<String ID="string_308" HPOS="939" VPOS="1453" WIDTH="62" HEIGHT="22" WC="0.96" CONTENT="tässä"/>
+						</TextLine>
+						<TextLine ID="line_42" HPOS="181" VPOS="1481" WIDTH="819" HEIGHT="81">
+							<String ID="string_309" HPOS="181" VPOS="1481" WIDTH="66" HEIGHT="81" WC="0.49" CONTENT="join"/><SP WIDTH="18" VPOS="1481" HPOS="247"/>
+							<String ID="string_310" HPOS="265" VPOS="1482" WIDTH="164" HEIGHT="28" WC="0.96" CONTENT="tarpeettoman"/><SP WIDTH="16" VPOS="1482" HPOS="429"/>
+							<String ID="string_311" HPOS="445" VPOS="1488" WIDTH="69" HEIGHT="15" WC="0.96" CONTENT="sanan"/><SP WIDTH="15" VPOS="1488" HPOS="514"/>
+							<String ID="string_312" HPOS="529" VPOS="1481" WIDTH="89" HEIGHT="22" WC="0.96" CONTENT="tähden."/><SP WIDTH="32" VPOS="1481" HPOS="618"/>
+							<String ID="string_313" HPOS="650" VPOS="1481" WIDTH="96" HEIGHT="23" WC="0.96" CONTENT="Minusta"/><SP WIDTH="16" VPOS="1481" HPOS="746"/>
+							<String ID="string_314" HPOS="762" VPOS="1482" WIDTH="120" HEIGHT="28" WC="0.97" CONTENT="professori"/><SP WIDTH="11" VPOS="1482" HPOS="882"/>
+							<String ID="string_315" HPOS="893" VPOS="1482" WIDTH="107" HEIGHT="22" WC="0.96" CONTENT="Forsman"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="172" VPOS="32" WIDTH="7" HEIGHT="756"></GraphicalElement >
+				<ComposedBlock ID="cblock_3" HPOS="191" VPOS="1511" WIDTH="810" HEIGHT="59">
+					<TextBlock ID="block_10" HPOS="191" VPOS="1511" WIDTH="810" HEIGHT="59">
+						<TextLine ID="line_43" HPOS="191" VPOS="1511" WIDTH="809" HEIGHT="29">
+							<String ID="string_316" HPOS="191" VPOS="1511" WIDTH="21" HEIGHT="22" WC="0.94" CONTENT="oi"/><SP WIDTH="23" VPOS="1511" HPOS="212"/>
+							<String ID="string_317" HPOS="235" VPOS="1511" WIDTH="45" HEIGHT="22" WC="0.92" CONTENT="niin"/><SP WIDTH="23" VPOS="1511" HPOS="280"/>
+							<String ID="string_318" HPOS="303" VPOS="1511" WIDTH="89" HEIGHT="29" WC="0.96" CONTENT="päteviä"/><SP WIDTH="19" VPOS="1511" HPOS="392"/>
+							<String ID="string_319" HPOS="411" VPOS="1512" WIDTH="58" HEIGHT="27" WC="0.96" CONTENT="syitä"/><SP WIDTH="16" VPOS="1512" HPOS="469"/>
+							<String ID="string_320" HPOS="485" VPOS="1511" WIDTH="55" HEIGHT="22" WC="0.96" CONTENT="esiin"/><SP WIDTH="15" VPOS="1511" HPOS="540"/>
+							<String ID="string_321" HPOS="555" VPOS="1512" WIDTH="53" HEIGHT="25" WC="0.97" CONTENT="että,"/><SP WIDTH="15" VPOS="1512" HPOS="608"/>
+							<String ID="string_322" HPOS="623" VPOS="1512" WIDTH="36" HEIGHT="28" WC="0.97" CONTENT="jos"/><SP WIDTH="15" VPOS="1512" HPOS="659"/>
+							<String ID="string_323" HPOS="674" VPOS="1512" WIDTH="83" HEIGHT="22" WC="0.96" CONTENT="todella"/><SP WIDTH="16" VPOS="1512" HPOS="757"/>
+							<String ID="string_324" HPOS="773" VPOS="1512" WIDTH="127" HEIGHT="23" WC="0.96" CONTENT="tahdomme"/><SP WIDTH="17" VPOS="1512" HPOS="900"/>
+							<String ID="string_325" HPOS="917" VPOS="1512" WIDTH="83" HEIGHT="23" WC="0.96" CONTENT="mitään"/>
+						</TextLine>
+						<TextLine ID="line_44" HPOS="197" VPOS="1542" WIDTH="804" HEIGHT="28">
+							<String ID="string_326" HPOS="197" VPOS="1542" WIDTH="118" HEIGHT="20" WC="0.90" CONTENT="annatusta"/><SP WIDTH="14" VPOS="1542" HPOS="315"/>
+							<String ID="string_327" HPOS="329" VPOS="1542" WIDTH="24" HEIGHT="26" WC="0.96" CONTENT="ja"/><SP WIDTH="17" VPOS="1542" HPOS="353"/>
+							<String ID="string_328" HPOS="370" VPOS="1548" WIDTH="58" HEIGHT="21" WC="0.92" CONTENT="apua"/><SP WIDTH="16" VPOS="1548" HPOS="428"/>
+							<String ID="string_329" HPOS="444" VPOS="1542" WIDTH="194" HEIGHT="27" WC="0.92" CONTENT="kansanopistoille"/><SP WIDTH="17" VPOS="1542" HPOS="638"/>
+							<String ID="string_330" HPOS="655" VPOS="1544" WIDTH="72" HEIGHT="25" WC="0.96" CONTENT="antaa,"/><SP WIDTH="17" VPOS="1544" HPOS="727"/>
+							<String ID="string_331" HPOS="744" VPOS="1542" WIDTH="61" HEIGHT="28" WC="0.97" CONTENT="kyllä"/><SP WIDTH="15" VPOS="1542" HPOS="805"/>
+							<String ID="string_332" HPOS="820" VPOS="1548" WIDTH="29" HEIGHT="16" WC="0.96" CONTENT="on"/><SP WIDTH="15" VPOS="1548" HPOS="849"/>
+							<String ID="string_333" HPOS="864" VPOS="1543" WIDTH="51" HEIGHT="21" WC="0.96" CONTENT="sitte"/><SP WIDTH="19" VPOS="1543" HPOS="915"/>
+							<String ID="string_334" HPOS="934" VPOS="1544" WIDTH="67" HEIGHT="26" WC="0.96" CONTENT="syytä"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_4" HPOS="181" VPOS="1383" WIDTH="3" HEIGHT="359"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
