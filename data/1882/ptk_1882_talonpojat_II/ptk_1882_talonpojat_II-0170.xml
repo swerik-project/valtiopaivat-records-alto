@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_vg0jfj7f_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1095" HEIGHT="1795" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1095" HEIGHT="1795">
+				<GraphicalElement ID="cblock_0" HPOS="0" VPOS="824" WIDTH="15" HEIGHT="784"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="176" VPOS="126" WIDTH="654" HEIGHT="34">
+					<TextBlock ID="block_0" HPOS="176" VPOS="126" WIDTH="654" HEIGHT="34">
+						<TextLine ID="line_0" HPOS="176" VPOS="126" WIDTH="654" HEIGHT="34">
+							<String ID="string_0" HPOS="176" VPOS="126" WIDTH="46" HEIGHT="34" WC="0.95" CONTENT="860"/><SP WIDTH="145" VPOS="126" HPOS="222"/>
+							<String ID="string_1" HPOS="367" VPOS="136" WIDTH="215" HEIGHT="21" WC="0.89" CONTENT="Talonpoikaissääty"/><SP WIDTH="11" VPOS="136" HPOS="582"/>
+							<String ID="string_2" HPOS="593" VPOS="137" WIDTH="59" HEIGHT="17" WC="0.94" CONTENT="1882."/><SP WIDTH="24" VPOS="137" HPOS="652"/>
+							<String ID="string_3" HPOS="676" VPOS="137" WIDTH="14" HEIGHT="16" WC="0.96" CONTENT="4"/><SP WIDTH="12" VPOS="137" HPOS="690"/>
+							<String ID="string_4" HPOS="702" VPOS="141" WIDTH="20" HEIGHT="16" WC="0.93" CONTENT="p."/><SP WIDTH="13" VPOS="141" HPOS="722"/>
+							<String ID="string_5" HPOS="735" VPOS="136" WIDTH="95" HEIGHT="18" WC="0.91" CONTENT="Toukok."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="179" VPOS="164" WIDTH="829" HEIGHT="4"></GraphicalElement >
+				<ComposedBlock ID="cblock_3" HPOS="180" VPOS="201" WIDTH="828" HEIGHT="60">
+					<TextBlock ID="block_1" HPOS="180" VPOS="201" WIDTH="828" HEIGHT="60">
+						<TextLine ID="line_1" HPOS="250" VPOS="201" WIDTH="758" HEIGHT="53">
+							<String ID="string_6" HPOS="250" VPOS="201" WIDTH="46" HEIGHT="37" WC="0.96" CONTENT="että"/><SP WIDTH="14" VPOS="201" HPOS="296"/>
+							<String ID="string_7" HPOS="310" VPOS="205" WIDTH="67" HEIGHT="49" WC="0.32" CONTENT="KL"/><SP WIDTH="2" VPOS="205" HPOS="377"/>
+							<String ID="string_8" HPOS="379" VPOS="204" WIDTH="35" HEIGHT="50" WC="0.80" CONTENT="JN"/><SP WIDTH="14" VPOS="204" HPOS="414"/>
+							<String ID="string_9" HPOS="428" VPOS="204" WIDTH="332" HEIGHT="22" WC="0.92" CONTENT="asevelvollisuusvaliokuntaan"/><SP WIDTH="10" VPOS="204" HPOS="760"/>
+							<String ID="string_10" HPOS="770" VPOS="204" WIDTH="104" HEIGHT="29" WC="0.93" CONTENT="lykännyt"/><SP WIDTH="12" VPOS="204" HPOS="874"/>
+							<String ID="string_11" HPOS="886" VPOS="204" WIDTH="122" HEIGHT="23" WC="0.93" CONTENT="armollisen"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="180" VPOS="231" WIDTH="169" HEIGHT="30">
+							<String ID="string_12" HPOS="180" VPOS="232" WIDTH="110" HEIGHT="29" WC="0.96" CONTENT="esityksen"/><SP WIDTH="15" VPOS="232" HPOS="290"/>
+							<String ID="string_13" HPOS="305" VPOS="231" WIDTH="44" HEIGHT="23" WC="0.96" CONTENT="N:o"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="250" VPOS="397" WIDTH="374" HEIGHT="31">
+					<TextBlock ID="block_2" HPOS="250" VPOS="397" WIDTH="374" HEIGHT="31">
+						<TextLine ID="line_3" HPOS="250" VPOS="397" WIDTH="374" HEIGHT="31">
+							<String ID="string_14" HPOS="250" VPOS="397" WIDTH="85" HEIGHT="21" WC="0.96" CONTENT="Istunto"/><SP WIDTH="16" VPOS="397" HPOS="335"/>
+							<String ID="string_15" HPOS="351" VPOS="399" WIDTH="81" HEIGHT="28" WC="0.97" CONTENT="päättyi"/><SP WIDTH="16" VPOS="399" HPOS="432"/>
+							<String ID="string_16" HPOS="448" VPOS="398" WIDTH="56" HEIGHT="22" WC="0.96" CONTENT="kello"/><SP WIDTH="17" VPOS="398" HPOS="504"/>
+							<String ID="string_17" HPOS="521" VPOS="399" WIDTH="26" HEIGHT="21" WC="0.96" CONTENT="12"/><SP WIDTH="14" VPOS="399" HPOS="547"/>
+							<String ID="string_18" HPOS="561" VPOS="399" WIDTH="63" HEIGHT="29" WC="0.96" CONTENT="yöllä."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
